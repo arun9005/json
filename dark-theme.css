@@ -11,10 +11,10 @@
     -moz-osx-font-smoothing: grayscale;
   }
   .cfl-icon--alert:before {
-    content: "\f101";
+    content: "\f101" !important;
   }
   .cfl-icon--align-center:before {
-    content: "\f102";
+    content: "\f102" !important;
   }
   .cfl-icon--align-left:before {
     content: "\f103";
