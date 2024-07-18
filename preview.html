@@ -1474,10 +1474,6 @@
           <div class="icon-label">cfl-icon--statements</div>
         </div>
         <div class="icon-content cfs-region-us">
-          <span class="cfl-icon--statements-alt"></span>
-          <div class="icon-label">cfl-icon--statements-alt</div>
-        </div>
-        <div class="icon-content cfs-region-us">
           <span class="cfl-icon--other-expense"></span>
           <div class="icon-label">cfl-icon--other-expense</div>
         </div>
@@ -1505,10 +1501,6 @@
         <div class="icon-content cfs-region-au">
           <span class="cfl-icon--statements"></span>
           <div class="icon-label">cfl-icon--statements</div>
-        </div>
-        <div class="icon-content cfs-region-au">
-          <span class="cfl-icon--statements-alt"></span>
-          <div class="icon-label">cfl-icon--statements-alt</div>
         </div>
         <div class="icon-content cfs-region-au">
           <span class="cfl-icon--other-expense"></span>
@@ -1540,10 +1532,6 @@
           <div class="icon-label">cfl-icon--statements</div>
         </div>
         <div class="icon-content cfs-region-sg">
-          <span class="cfl-icon--statements-alt"></span>
-          <div class="icon-label">cfl-icon--statements-alt</div>
-        </div>
-        <div class="icon-content cfs-region-sg">
           <span class="cfl-icon--other-expense"></span>
           <div class="icon-label">cfl-icon--other-expense</div>
         </div>
@@ -1573,10 +1561,6 @@
           <div class="icon-label">cfl-icon--statements</div>
         </div>
         <div class="icon-content cfs-region-gb">
-          <span class="cfl-icon--statements-alt"></span>
-          <div class="icon-label">cfl-icon--statements-alt</div>
-        </div>
-        <div class="icon-content cfs-region-gb">
           <span class="cfl-icon--other-expense"></span>
           <div class="icon-label">cfl-icon--other-expense</div>
         </div>
@@ -1593,4 +1577,17 @@
   </div>
 </div>
 
-
+<script>
+  const block = document.querySelectorAll('.icon-content');
+  block.forEach(element => {
+    element.addEventListener("click", (event) => {
+      event.target.classList.add('copying');
+      const text = event.target.querySelector('.icon-label');
+      console.log(text.innerText.toString());
+      navigator.clipboard.writeText(text.innerText.toString());
+      setTimeout(() => {
+        event.target.classList.remove('copying');
+      }, 500);
+    });
+  });
+</script>
