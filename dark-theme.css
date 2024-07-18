@@ -64,7 +64,7 @@
 @layer careflow.libraries {
   @font-face {
     font-family: "careflow-icons";
-   src: url("https://gitlab.infra.aws.carestack.com/carestack-components/carestack-styles/-/raw/master/frameworks/careflow/assets/careflow/fonts/careflow-icons.woff2?1c6c6ad1f299a28cd826d9804fb81344#careflow-icons") format("woff2");
+   src: url("https://gitlab.infra.aws.carestack.com/carestack-components/carestack-styles/-/raw/master/frameworks/careflow/assets/careflow/fonts/careflow-icons.woff2") format("woff2");
   }
   span[class^=cfl-icon--]:before, span[class*=" cfl-icon--"]:before {
     font-family: careflow-icons !important;
