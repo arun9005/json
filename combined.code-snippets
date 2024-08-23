@@ -1,0 +1,6971 @@
+{
+  "border secondary": {
+    "prefix": "cfu-border-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-secondary"
+    ]
+  },
+  "border left secondary": {
+    "prefix": "cfu-border-left-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-left-secondary"
+    ]
+  },
+  "border right secondary": {
+    "prefix": "cfu-border-right-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-right-secondary"
+    ]
+  },
+  "border top secondary": {
+    "prefix": "cfu-border-top-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-top-secondary"
+    ]
+  },
+  "border bottom secondary": {
+    "prefix": "cfu-border-bottom-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-bottom-secondary"
+    ]
+  },
+  "border dark primary": {
+    "prefix": "cfu-border-primary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-primary"
+    ]
+  },
+  "border left dark primary": {
+    "prefix": "cfu-border-left-dark-primary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-left-dark-primary"
+    ]
+  },
+  "border right dark primary": {
+    "prefix": "cfu-border-right-dark-primary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-right-dark-primary"
+    ]
+  },
+  "border top dark primary": {
+    "prefix": "cfu-border-top-dark-primary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-top-dark-primary"
+    ]
+  },
+  "border bottom dark primary": {
+    "prefix": "cfu-border-bottom-dark-primary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-bottom-dark-primary"
+    ]
+  },
+  "border dark secondary": {
+    "prefix": "cfu-border-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-secondary"
+    ]
+  },
+  "border left dark secondary": {
+    "prefix": "cfu-border-left-dark-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-left-dark-secondary"
+    ]
+  },
+  "border right dark secondary": {
+    "prefix": "cfu-border-right-dark-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-right-dark-secondary"
+    ]
+  },
+  "border top dark secondary": {
+    "prefix": "cfu-border-top-dark-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-top-dark-secondary"
+    ]
+  },
+  "border bottom dark secondary": {
+    "prefix": "cfu-border-bottom-dark-secondary",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-border-bottom-dark-secondary"
+    ]
+  },
+  "background-interactive-100": {
+    "prefix": "cfu-background-interactive-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-interactive-100"
+    ]
+  },
+  "background-interactive-80": {
+    "prefix": "cfu-background-interactive-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-interactive-80"
+    ]
+  },
+  "background-interactive-60": {
+    "prefix": "cfu-background-interactive-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-interactive-60"
+    ]
+  },
+  "background-interactive-40": {
+    "prefix": "cfu-background-interactive-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-interactive-40"
+    ]
+  },
+  "background-interactive-20": {
+    "prefix": "cfu-background-interactive-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-interactive-20"
+    ]
+  },
+  "background-interactive-10": {
+    "prefix": "cfu-background-interactive-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-interactive-10"
+    ]
+  },
+  "background-interactive-5": {
+    "prefix": "cfu-background-interactive-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-interactive-5"
+    ]
+  },
+  "background-grayscale-100": {
+    "prefix": "cfu-background-grayscale-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-grayscale-100"
+    ]
+  },
+  "background-grayscale-80": {
+    "prefix": "cfu-background-grayscale-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-grayscale-80"
+    ]
+  },
+  "background-grayscale-60": {
+    "prefix": "cfu-background-grayscale-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-grayscale-60"
+    ]
+  },
+  "background-grayscale-40": {
+    "prefix": "cfu-background-grayscale-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-grayscale-40"
+    ]
+  },
+  "background-grayscale-20": {
+    "prefix": "cfu-background-grayscale-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-grayscale-20"
+    ]
+  },
+  "background-grayscale-10": {
+    "prefix": "cfu-background-grayscale-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-grayscale-10"
+    ]
+  },
+  "background-grayscale-5": {
+    "prefix": "cfu-background-grayscale-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-grayscale-5"
+    ]
+  },
+  "background-indicator-red-100": {
+    "prefix": "cfu-background-indicator-red-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-red-100"
+    ]
+  },
+  "background-indicator-red-80": {
+    "prefix": "cfu-background-indicator-red-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-red-80"
+    ]
+  },
+  "background-indicator-red-60": {
+    "prefix": "cfu-background-indicator-red-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-red-60"
+    ]
+  },
+  "background-indicator-red-40": {
+    "prefix": "cfu-background-indicator-red-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-red-40"
+    ]
+  },
+  "background-indicator-red-20": {
+    "prefix": "cfu-background-indicator-red-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-red-20"
+    ]
+  },
+  "background-indicator-red-10": {
+    "prefix": "cfu-background-indicator-red-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-red-10"
+    ]
+  },
+  "background-indicator-red-5": {
+    "prefix": "cfu-background-indicator-red-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-red-5"
+    ]
+  },
+  "background-indicator-orange-100": {
+    "prefix": "cfu-background-indicator-orange-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-orange-100"
+    ]
+  },
+  "background-indicator-orange-80": {
+    "prefix": "cfu-background-indicator-orange-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-orange-80"
+    ]
+  },
+  "background-indicator-orange-60": {
+    "prefix": "cfu-background-indicator-orange-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-orange-60"
+    ]
+  },
+  "background-indicator-orange-40": {
+    "prefix": "cfu-background-indicator-orange-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-orange-40"
+    ]
+  },
+  "background-indicator-orange-20": {
+    "prefix": "cfu-background-indicator-orange-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-orange-20"
+    ]
+  },
+  "background-indicator-orange-10": {
+    "prefix": "cfu-background-indicator-orange-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-orange-10"
+    ]
+  },
+  "background-indicator-orange-5": {
+    "prefix": "cfu-background-indicator-orange-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-orange-5"
+    ]
+  },
+  "background-indicator-green-100": {
+    "prefix": "cfu-background-indicator-green-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-green-100"
+    ]
+  },
+  "background-indicator-green-80": {
+    "prefix": "cfu-background-indicator-green-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-green-80"
+    ]
+  },
+  "background-indicator-green-60": {
+    "prefix": "cfu-background-indicator-green-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-green-60"
+    ]
+  },
+  "background-indicator-green-40": {
+    "prefix": "cfu-background-indicator-green-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-green-40"
+    ]
+  },
+  "background-indicator-green-20": {
+    "prefix": "cfu-background-indicator-green-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-green-20"
+    ]
+  },
+  "background-indicator-green-10": {
+    "prefix": "cfu-background-indicator-green-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-green-10"
+    ]
+  },
+  "background-indicator-green-5": {
+    "prefix": "cfu-background-indicator-green-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-indicator-green-5"
+    ]
+  },
+  "background-accent-brown-100": {
+    "prefix": "cfu-background-accent-brown-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-brown-100"
+    ]
+  },
+  "background-accent-brown-80": {
+    "prefix": "cfu-background-accent-brown-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-brown-80"
+    ]
+  },
+  "background-accent-brown-60": {
+    "prefix": "cfu-background-accent-brown-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-brown-60"
+    ]
+  },
+  "background-accent-brown-40": {
+    "prefix": "cfu-background-accent-brown-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-brown-40"
+    ]
+  },
+  "background-accent-brown-20": {
+    "prefix": "cfu-background-accent-brown-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-brown-20"
+    ]
+  },
+  "background-accent-brown-10": {
+    "prefix": "cfu-background-accent-brown-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-brown-10"
+    ]
+  },
+  "background-accent-brown-5": {
+    "prefix": "cfu-background-accent-brown-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-brown-5"
+    ]
+  },
+  "background-accent-gold-100": {
+    "prefix": "cfu-background-accent-gold-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-gold-100"
+    ]
+  },
+  "background-accent-gold-80": {
+    "prefix": "cfu-background-accent-gold-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-gold-80"
+    ]
+  },
+  "background-accent-gold-60": {
+    "prefix": "cfu-background-accent-gold-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-gold-60"
+    ]
+  },
+  "background-accent-gold-40": {
+    "prefix": "cfu-background-accent-gold-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-gold-40"
+    ]
+  },
+  "background-accent-gold-20": {
+    "prefix": "cfu-background-accent-gold-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-gold-20"
+    ]
+  },
+  "background-accent-gold-10": {
+    "prefix": "cfu-background-accent-gold-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-gold-10"
+    ]
+  },
+  "background-accent-gold-5": {
+    "prefix": "cfu-background-accent-gold-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-gold-5"
+    ]
+  },
+  "background-accent-turquoise-100": {
+    "prefix": "cfu-background-accent-turquoise-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-turquoise-100"
+    ]
+  },
+  "background-accent-turquoise-80": {
+    "prefix": "cfu-background-accent-turquoise-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-turquoise-80"
+    ]
+  },
+  "background-accent-turquoise-60": {
+    "prefix": "cfu-background-accent-turquoise-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-turquoise-60"
+    ]
+  },
+  "background-accent-turquoise-40": {
+    "prefix": "cfu-background-accent-turquoise-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-turquoise-40"
+    ]
+  },
+  "background-accent-turquoise-20": {
+    "prefix": "cfu-background-accent-turquoise-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-turquoise-20"
+    ]
+  },
+  "background-accent-turquoise-10": {
+    "prefix": "cfu-background-accent-turquoise-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-turquoise-10"
+    ]
+  },
+  "background-accent-turquoise-5": {
+    "prefix": "cfu-background-accent-turquoise-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-turquoise-5"
+    ]
+  },
+  "background-accent-blue-100": {
+    "prefix": "cfu-background-accent-blue-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-blue-100"
+    ]
+  },
+  "background-accent-blue-80": {
+    "prefix": "cfu-background-accent-blue-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-blue-80"
+    ]
+  },
+  "background-accent-blue-60": {
+    "prefix": "cfu-background-accent-blue-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-blue-60"
+    ]
+  },
+  "background-accent-blue-40": {
+    "prefix": "cfu-background-accent-blue-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-blue-40"
+    ]
+  },
+  "background-accent-blue-20": {
+    "prefix": "cfu-background-accent-blue-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-blue-20"
+    ]
+  },
+  "background-accent-blue-10": {
+    "prefix": "cfu-background-accent-blue-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-blue-10"
+    ]
+  },
+  "background-accent-blue-5": {
+    "prefix": "cfu-background-accent-blue-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-blue-5"
+    ]
+  },
+  "background-accent-purple-100": {
+    "prefix": "cfu-background-accent-purple-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-purple-100"
+    ]
+  },
+  "background-accent-purple-80": {
+    "prefix": "cfu-background-accent-purple-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-purple-80"
+    ]
+  },
+  "background-accent-purple-60": {
+    "prefix": "cfu-background-accent-purple-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-purple-60"
+    ]
+  },
+  "background-accent-purple-40": {
+    "prefix": "cfu-background-accent-purple-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-purple-40"
+    ]
+  },
+  "background-accent-purple-20": {
+    "prefix": "cfu-background-accent-purple-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-purple-20"
+    ]
+  },
+  "background-accent-purple-10": {
+    "prefix": "cfu-background-accent-purple-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-purple-10"
+    ]
+  },
+  "background-accent-purple-5": {
+    "prefix": "cfu-background-accent-purple-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-purple-5"
+    ]
+  },
+  "background-accent-pink-100": {
+    "prefix": "cfu-background-accent-pink-100",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-pink-100"
+    ]
+  },
+  "background-accent-pink-80": {
+    "prefix": "cfu-background-accent-pink-80",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-pink-80"
+    ]
+  },
+  "background-accent-pink-60": {
+    "prefix": "cfu-background-accent-pink-60",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-pink-60"
+    ]
+  },
+  "background-accent-pink-40": {
+    "prefix": "cfu-background-accent-pink-40",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-pink-40"
+    ]
+  },
+  "background-accent-pink-20": {
+    "prefix": "cfu-background-accent-pink-20",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-pink-20"
+    ]
+  },
+  "background-accent-pink-10": {
+    "prefix": "cfu-background-accent-pink-10",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-pink-10"
+    ]
+  },
+  "background-accent-pink-5": {
+    "prefix": "cfu-background-accent-pink-5",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-accent-pink-5"
+    ]
+  },
+  "background-white": {
+    "prefix": "cfu-background-white",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-white"
+    ]
+  },
+  "background-gradient": {
+    "prefix": "cfu-background-gradient",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-gradient"
+    ]
+  },
+  "background-gradient-vertical": {
+    "prefix": "cfu-background-gradient-vertical",
+    "description": "Careflow background Color Palette",
+    "body": [
+      "cfu-background-gradient-vertical"
+    ]
+  },
+  "color-interactive-100": {
+    "prefix": "cfu-color-interactive-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-interactive-100"
+    ]
+  },
+  "color-interactive-80": {
+    "prefix": "cfu-color-interactive-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-interactive-80"
+    ]
+  },
+  "color-interactive-60": {
+    "prefix": "cfu-color-interactive-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-interactive-60"
+    ]
+  },
+  "color-interactive-40": {
+    "prefix": "cfu-color-interactive-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-interactive-40"
+    ]
+  },
+  "color-interactive-20": {
+    "prefix": "cfu-color-interactive-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-interactive-20"
+    ]
+  },
+  "color-interactive-10": {
+    "prefix": "cfu-color-interactive-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-interactive-10"
+    ]
+  },
+  "color-interactive-5": {
+    "prefix": "cfu-color-interactive-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-interactive-5"
+    ]
+  },
+  "color-grayscale-100": {
+    "prefix": "cfu-color-grayscale-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-grayscale-100"
+    ]
+  },
+  "color-grayscale-80": {
+    "prefix": "cfu-color-grayscale-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-grayscale-80"
+    ]
+  },
+  "color-grayscale-60": {
+    "prefix": "cfu-color-grayscale-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-grayscale-60"
+    ]
+  },
+  "color-grayscale-40": {
+    "prefix": "cfu-color-grayscale-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-grayscale-40"
+    ]
+  },
+  "color-grayscale-20": {
+    "prefix": "cfu-color-grayscale-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-grayscale-20"
+    ]
+  },
+  "color-grayscale-10": {
+    "prefix": "cfu-color-grayscale-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-grayscale-10"
+    ]
+  },
+  "color-grayscale-5": {
+    "prefix": "cfu-color-grayscale-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-grayscale-5"
+    ]
+  },
+  "color-indicator-red-100": {
+    "prefix": "cfu-color-indicator-red-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-red-100"
+    ]
+  },
+  "color-indicator-red-80": {
+    "prefix": "cfu-color-indicator-red-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-red-80"
+    ]
+  },
+  "color-indicator-red-60": {
+    "prefix": "cfu-color-indicator-red-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-red-60"
+    ]
+  },
+  "color-indicator-red-40": {
+    "prefix": "cfu-color-indicator-red-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-red-40"
+    ]
+  },
+  "color-indicator-red-20": {
+    "prefix": "cfu-color-indicator-red-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-red-20"
+    ]
+  },
+  "color-indicator-red-10": {
+    "prefix": "cfu-color-indicator-red-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-red-10"
+    ]
+  },
+  "color-indicator-red-5": {
+    "prefix": "cfu-color-indicator-red-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-red-5"
+    ]
+  },
+  "color-indicator-orange-100": {
+    "prefix": "cfu-color-indicator-orange-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-orange-100"
+    ]
+  },
+  "color-indicator-orange-80": {
+    "prefix": "cfu-color-indicator-orange-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-orange-80"
+    ]
+  },
+  "color-indicator-orange-60": {
+    "prefix": "cfu-color-indicator-orange-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-orange-60"
+    ]
+  },
+  "color-indicator-orange-40": {
+    "prefix": "cfu-color-indicator-orange-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-orange-40"
+    ]
+  },
+  "color-indicator-orange-20": {
+    "prefix": "cfu-color-indicator-orange-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-orange-20"
+    ]
+  },
+  "color-indicator-orange-10": {
+    "prefix": "cfu-color-indicator-orange-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-orange-10"
+    ]
+  },
+  "color-indicator-orange-5": {
+    "prefix": "cfu-color-indicator-orange-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-orange-5"
+    ]
+  },
+  "color-indicator-green-100": {
+    "prefix": "cfu-color-indicator-green-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-green-100"
+    ]
+  },
+  "color-indicator-green-80": {
+    "prefix": "cfu-color-indicator-green-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-green-80"
+    ]
+  },
+  "color-indicator-green-60": {
+    "prefix": "cfu-color-indicator-green-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-green-60"
+    ]
+  },
+  "color-indicator-green-40": {
+    "prefix": "cfu-color-indicator-green-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-green-40"
+    ]
+  },
+  "color-indicator-green-20": {
+    "prefix": "cfu-color-indicator-green-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-green-20"
+    ]
+  },
+  "color-indicator-green-10": {
+    "prefix": "cfu-color-indicator-green-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-green-10"
+    ]
+  },
+  "color-indicator-green-5": {
+    "prefix": "cfu-color-indicator-green-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-indicator-green-5"
+    ]
+  },
+  "color-accent-brown-100": {
+    "prefix": "cfu-color-accent-brown-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-brown-100"
+    ]
+  },
+  "color-accent-brown-80": {
+    "prefix": "cfu-color-accent-brown-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-brown-80"
+    ]
+  },
+  "color-accent-brown-60": {
+    "prefix": "cfu-color-accent-brown-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-brown-60"
+    ]
+  },
+  "color-accent-brown-40": {
+    "prefix": "cfu-color-accent-brown-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-brown-40"
+    ]
+  },
+  "color-accent-brown-20": {
+    "prefix": "cfu-color-accent-brown-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-brown-20"
+    ]
+  },
+  "color-accent-brown-10": {
+    "prefix": "cfu-color-accent-brown-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-brown-10"
+    ]
+  },
+  "color-accent-brown-5": {
+    "prefix": "cfu-color-accent-brown-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-brown-5"
+    ]
+  },
+  "color-accent-gold-100": {
+    "prefix": "cfu-color-accent-gold-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-gold-100"
+    ]
+  },
+  "color-accent-gold-80": {
+    "prefix": "cfu-color-accent-gold-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-gold-80"
+    ]
+  },
+  "color-accent-gold-60": {
+    "prefix": "cfu-color-accent-gold-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-gold-60"
+    ]
+  },
+  "color-accent-gold-40": {
+    "prefix": "cfu-color-accent-gold-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-gold-40"
+    ]
+  },
+  "color-accent-gold-20": {
+    "prefix": "cfu-color-accent-gold-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-gold-20"
+    ]
+  },
+  "color-accent-gold-10": {
+    "prefix": "cfu-color-accent-gold-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-gold-10"
+    ]
+  },
+  "color-accent-gold-5": {
+    "prefix": "cfu-color-accent-gold-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-gold-5"
+    ]
+  },
+  "color-accent-olive-100": {
+    "prefix": "cfu-color-accent-olive-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-olive-100"
+    ]
+  },
+  "color-accent-olive-80": {
+    "prefix": "cfu-color-accent-olive-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-olive-80"
+    ]
+  },
+  "color-accent-olive-60": {
+    "prefix": "cfu-color-accent-olive-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-olive-60"
+    ]
+  },
+  "color-accent-olive-40": {
+    "prefix": "cfu-color-accent-olive-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-olive-40"
+    ]
+  },
+  "color-accent-olive-20": {
+    "prefix": "cfu-color-accent-olive-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-olive-20"
+    ]
+  },
+  "color-accent-olive-10": {
+    "prefix": "cfu-color-accent-olive-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-olive-10"
+    ]
+  },
+  "color-accent-olive-5": {
+    "prefix": "cfu-color-accent-olive-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-olive-5"
+    ]
+  },
+  "color-accent-turquoise-100": {
+    "prefix": "cfu-color-accent-turquoise-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-turquoise-100"
+    ]
+  },
+  "color-accent-turquoise-80": {
+    "prefix": "cfu-color-accent-turquoise-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-turquoise-80"
+    ]
+  },
+  "color-accent-turquoise-60": {
+    "prefix": "cfu-color-accent-turquoise-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-turquoise-60"
+    ]
+  },
+  "color-accent-turquoise-40": {
+    "prefix": "cfu-color-accent-turquoise-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-turquoise-40"
+    ]
+  },
+  "color-accent-turquoise-20": {
+    "prefix": "cfu-color-accent-turquoise-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-turquoise-20"
+    ]
+  },
+  "color-accent-turquoise-10": {
+    "prefix": "cfu-color-accent-turquoise-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-turquoise-10"
+    ]
+  },
+  "color-accent-turquoise-5": {
+    "prefix": "cfu-color-accent-turquoise-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-turquoise-5"
+    ]
+  },
+  "color-accent-blue-100": {
+    "prefix": "cfu-color-accent-blue-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-blue-100"
+    ]
+  },
+  "color-accent-blue-80": {
+    "prefix": "cfu-color-accent-blue-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-blue-80"
+    ]
+  },
+  "color-accent-blue-60": {
+    "prefix": "cfu-color-accent-blue-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-blue-60"
+    ]
+  },
+  "color-accent-blue-40": {
+    "prefix": "cfu-color-accent-blue-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-blue-40"
+    ]
+  },
+  "color-accent-blue-20": {
+    "prefix": "cfu-color-accent-blue-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-blue-20"
+    ]
+  },
+  "color-accent-blue-10": {
+    "prefix": "cfu-color-accent-blue-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-blue-10"
+    ]
+  },
+  "color-accent-blue-5": {
+    "prefix": "cfu-color-accent-blue-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-blue-5"
+    ]
+  },
+  "color-accent-purple-100": {
+    "prefix": "cfu-color-accent-purple-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-purple-100"
+    ]
+  },
+  "color-accent-purple-80": {
+    "prefix": "cfu-color-accent-purple-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-purple-80"
+    ]
+  },
+  "color-accent-purple-60": {
+    "prefix": "cfu-color-accent-purple-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-purple-60"
+    ]
+  },
+  "color-accent-purple-40": {
+    "prefix": "cfu-color-accent-purple-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-purple-40"
+    ]
+  },
+  "color-accent-purple-20": {
+    "prefix": "cfu-color-accent-purple-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-purple-20"
+    ]
+  },
+  "color-accent-purple-10": {
+    "prefix": "cfu-color-accent-purple-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-purple-10"
+    ]
+  },
+  "color-accent-purple-5": {
+    "prefix": "cfu-color-accent-purple-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-purple-5"
+    ]
+  },
+  "color-accent-pink-100": {
+    "prefix": "cfu-color-accent-pink-100",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-pink-100"
+    ]
+  },
+  "color-accent-pink-80": {
+    "prefix": "cfu-color-accent-pink-80",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-pink-80"
+    ]
+  },
+  "color-accent-pink-60": {
+    "prefix": "cfu-color-accent-pink-60",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-pink-60"
+    ]
+  },
+  "color-accent-pink-40": {
+    "prefix": "cfu-color-accent-pink-40",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-pink-40"
+    ]
+  },
+  "color-accent-pink-20": {
+    "prefix": "cfu-color-accent-pink-20",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-pink-20"
+    ]
+  },
+  "color-accent-pink-10": {
+    "prefix": "cfu-color-accent-pink-10",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-pink-10"
+    ]
+  },
+  "color-accent-pink-5": {
+    "prefix": "cfu-color-accent-pink-5",
+    "description": "Color Palette",
+    "body": [
+      "cfu-color-accent-pink-5"
+    ]
+  },
+  "corner small": {
+    "prefix": "cfu-corner-small",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-corner-small"
+    ]
+  },
+  "corner default": {
+    "prefix": "cfu-corner-small",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-corner-small"
+    ]
+  },
+  "corner medium": {
+    "prefix": "cfu-corner-small",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-corner-small"
+    ]
+  },
+  "corner full": {
+    "prefix": "cfu-corner-small",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-corner-small"
+    ]
+  },
+  "cursor-alias": {
+    "prefix": "cfu-cursor-alias",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-alias"
+    ]
+  },
+  "cursor-all-scroll": {
+    "prefix": "cfu-cursor-all-scroll",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-all-scroll"
+    ]
+  },
+  "cursor-auto": {
+    "prefix": "cfu-cursor-auto",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-auto"
+    ]
+  },
+  "cursor-cell": {
+    "prefix": "cfu-cursor-cell",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-cell"
+    ]
+  },
+  "cursor-col-resize": {
+    "prefix": "cfu-cursor-col-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-col-resize"
+    ]
+  },
+  "cursor-context-menu": {
+    "prefix": "cfu-cursor-context-menu",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-context-menu"
+    ]
+  },
+  "cursor-copy": {
+    "prefix": "cfu-cursor-copy",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-copy"
+    ]
+  },
+  "cursor-crosshair": {
+    "prefix": "cfu-cursor-crosshair",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-crosshair"
+    ]
+  },
+  "cursor-default": {
+    "prefix": "cfu-cursor-default",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-default"
+    ]
+  },
+  "cursor-e-resize": {
+    "prefix": "cfu-cursor-e-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-e-resize"
+    ]
+  },
+  "cursor-ew-resize": {
+    "prefix": "cfu-cursor-ew-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-ew-resize"
+    ]
+  },
+  "cursor-grab": {
+    "prefix": "cfu-cursor-grab",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-grab"
+    ]
+  },
+  "cursor-grabbing": {
+    "prefix": "cfu-cursor-grabbing",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-grabbing"
+    ]
+  },
+  "cursor-move": {
+    "prefix": "cfu-cursor-move",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-move"
+    ]
+  },
+  "cursor-n-resize": {
+    "prefix": "cfu-cursor-n-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-n-resize"
+    ]
+  },
+  "cursor-ne-resize": {
+    "prefix": "cfu-cursor-ne-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-ne-resize"
+    ]
+  },
+  "cursor-nesw-resize": {
+    "prefix": "cfu-cursor-nesw-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-nesw-resize"
+    ]
+  },
+  "cursor-ns-resize": {
+    "prefix": "cfu-cursor-ns-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-ns-resize"
+    ]
+  },
+  "cursor-nw-resize": {
+    "prefix": "cfu-cursor-nw-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-nw-resize"
+    ]
+  },
+  "cursor-nwse-resize": {
+    "prefix": "cfu-cursor-nwse-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-nwse-resize"
+    ]
+  },
+  "cursor-no-drop": {
+    "prefix": "cfu-cursor-no-drop",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-no-drop"
+    ]
+  },
+  "cursor-none": {
+    "prefix": "cfu-cursor-none",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-none"
+    ]
+  },
+  "cursor-not-allowed": {
+    "prefix": "cfu-cursor-not-allowed",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-not-allowed"
+    ]
+  },
+  "cursor-pointer": {
+    "prefix": "cfu-cursor-pointer",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-pointer"
+    ]
+  },
+  "cursor-progress": {
+    "prefix": "cfu-cursor-progress",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-progress"
+    ]
+  },
+  "cursor-row-resize": {
+    "prefix": "cfu-cursor-row-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-row-resize"
+    ]
+  },
+  "cursor-s-resize": {
+    "prefix": "cfu-cursor-s-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-s-resize"
+    ]
+  },
+  "cursor-se-resize": {
+    "prefix": "cfu-cursor-se-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-se-resize"
+    ]
+  },
+  "cursor-sw-resize": {
+    "prefix": "cfu-cursor-sw-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-sw-resize"
+    ]
+  },
+  "cursor-text": {
+    "prefix": "cfu-cursor-text",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-text"
+    ]
+  },
+  "cursor-w-resize": {
+    "prefix": "cfu-cursor-w-resize",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-w-resize"
+    ]
+  },
+  "cursor-wait": {
+    "prefix": "cfu-cursor-wait",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-wait"
+    ]
+  },
+  "cursor-zoom-in": {
+    "prefix": "cfu-cursor-zoom-in",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-zoom-in"
+    ]
+  },
+  "cursor-zoom-out": {
+    "prefix": "cfu-cursor-zoom-out",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-cursor-zoom-out"
+    ]
+  },
+  "display-inline": {
+    "prefix": "cfu-display-inline",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-inline"
+    ]
+  },
+  "display-inline-block": {
+    "prefix": "cfu-display-inline-block",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-inline-block"
+    ]
+  },
+  "display-inline-flex": {
+    "prefix": "cfu-display-inline-flex",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-inline-flex"
+    ]
+  },
+  "display-inline-grid": {
+    "prefix": "cfu-display-inline-grid",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-inline-grid"
+    ]
+  },
+  "display-inline-table": {
+    "prefix": "cfu-display-inline-table",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-inline-table"
+    ]
+  },
+  "display-block": {
+    "prefix": "cfu-display-block",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-block"
+    ]
+  },
+  "display-contents": {
+    "prefix": "cfu-display-contents",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-contents"
+    ]
+  },
+  "display-grid": {
+    "prefix": "cfu-display-grid",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-grid"
+    ]
+  },
+  "display-list-item": {
+    "prefix": "cfu-display-list-item",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-list-item"
+    ]
+  },
+  "display-none": {
+    "prefix": "cfu-display-none",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-display-none"
+    ]
+  },
+  "flex": {
+    "prefix": "cfu-flex",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex"
+    ]
+  },
+  "flex-inline": {
+    "prefix": "cfu-flex-inline",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-inline"
+    ]
+  },
+  "flex-row": {
+    "prefix": "cfu-flex-row",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-row"
+    ]
+  },
+  "flex-row-reverse": {
+    "prefix": "cfu-flex-row-reverse",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-row-reverse"
+    ]
+  },
+  "flex-column": {
+    "prefix": "cfu-flex-column",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-column"
+    ]
+  },
+  "flex-column-reverse": {
+    "prefix": "cfu-flex-column-reverse",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-column-reverse"
+    ]
+  },
+  "flex-nowrap": {
+    "prefix": "cfu-flex-nowrap",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-nowrap"
+    ]
+  },
+  "flex-wrap": {
+    "prefix": "cfu-flex-wrap",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-wrap"
+    ]
+  },
+  "-flex-wrap-reverse": {
+    "prefix": "ccfu-flex-wrap-reverse",
+    "description": "careflow utilities",
+    "body": [
+      "ccfu-flex-wrap-reverse"
+    ]
+  },
+  "justify-content-center": {
+    "prefix": "cfu-justify-content-center",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-center"
+    ]
+  },
+  "justify-content-start": {
+    "prefix": "cfu-justify-content-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-start"
+    ]
+  },
+  "justify-content-end": {
+    "prefix": "cfu-justify-content-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-end"
+    ]
+  },
+  "justify-content-flex-start": {
+    "prefix": "ccfu-justify-content-flex-start",
+    "description": "careflow utilities",
+    "body": [
+      "ccfu-justify-content-flex-start"
+    ]
+  },
+  "justify-content-flex-end": {
+    "prefix": "cfu-justify-content-flex-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-flex-end"
+    ]
+  },
+  "justify-content-left": {
+    "prefix": "cfu-justify-content-left",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-left"
+    ]
+  },
+  "justify-content-right": {
+    "prefix": "cfu-justify-content-right",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-right"
+    ]
+  },
+  "justify-content-space-between": {
+    "prefix": "cfu-justify-content-space-between",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-space-between"
+    ]
+  },
+  "justify-content-space-around": {
+    "prefix": "cfu-justify-content-space-around",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-space-around"
+    ]
+  },
+  "justify-content-space-evenly": {
+    "prefix": "cfu-justify-content-space-evenly",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-space-evenly"
+    ]
+  },
+  "justify-content-stretch": {
+    "prefix": "cfu-justify-content-stretch",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-content-stretch"
+    ]
+  },
+  "justify-items-normal": {
+    "prefix": "cfu-justify-items-normal",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-items-normal"
+    ]
+  },
+  "justify-items-stretch": {
+    "prefix": "cfu-justify-items-stretch",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-items-stretch"
+    ]
+  },
+  "justify-items-center": {
+    "prefix": "cfu-justify-items-center",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-items-center"
+    ]
+  },
+  "justify-items-start": {
+    "prefix": "cfu-justify-items-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-items-start"
+    ]
+  },
+  "justify-items-end": {
+    "prefix": "cfu-justify-items-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-items-end"
+    ]
+  },
+  "justify-items-flex-start": {
+    "prefix": "cfu-justify-items-flex-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-items-flex-start"
+    ]
+  },
+  "justify-items-flex-end": {
+    "prefix": "cfu-justify-items-flex-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-items-flex-end"
+    ]
+  },
+  "justify-self-auto": {
+    "prefix": "cfu-justify-self-auto",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-auto"
+    ]
+  },
+  "justify-self-normal": {
+    "prefix": "cfu-justify-self-normal",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-normal"
+    ]
+  },
+  "justify-self-stretch": {
+    "prefix": "cfu-justify-self-stretch",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-stretch"
+    ]
+  },
+  "justify-self-center": {
+    "prefix": "cfu-justify-self-center",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-center"
+    ]
+  },
+  "justify-self-start": {
+    "prefix": "cfu-justify-self-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-start"
+    ]
+  },
+  "justify-self-end": {
+    "prefix": "cfu-justify-self-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-end"
+    ]
+  },
+  "justify-self-flex-start": {
+    "prefix": "cfu-justify-self-flex-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-flex-start"
+    ]
+  },
+  "justify-self-flex-end": {
+    "prefix": "cfu-justify-self-flex-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-flex-end"
+    ]
+  },
+  "justify-self-self-start": {
+    "prefix": "cfu-justify-self-self-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-self-start"
+    ]
+  },
+  "justify-self-left": {
+    "prefix": "cfu-justify-self-left",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-left"
+    ]
+  },
+  "justify-self-right": {
+    "prefix": "cfu-justify-self-right",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-right"
+    ]
+  },
+  "justify-self-baseline": {
+    "prefix": "cfu-justify-self-baseline",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-justify-self-baseline"
+    ]
+  },
+  "align-content-normal": {
+    "prefix": "cfu-align-content-normal",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-normal"
+    ]
+  },
+  "align-content-center": {
+    "prefix": "cfu-align-content-center",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-center"
+    ]
+  },
+  "align-content-start": {
+    "prefix": "cfu-align-content-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-start"
+    ]
+  },
+  "align-content-end": {
+    "prefix": "cfu-align-content-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-end"
+    ]
+  },
+  "align-content-flex-start": {
+    "prefix": "cfu-align-content-flex-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-flex-start"
+    ]
+  },
+  "align-content-flex-end": {
+    "prefix": "cfu-align-content-flex-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-flex-end"
+    ]
+  },
+  "align-content-baseline": {
+    "prefix": "cfu-align-content-baseline",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-baseline"
+    ]
+  },
+  "align-content-space-between": {
+    "prefix": "cfu-align-content-space-between",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-space-between"
+    ]
+  },
+  "align-content-space-around": {
+    "prefix": "cfu-align-content-space-around",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-space-around"
+    ]
+  },
+  "align-content-space-evenly": {
+    "prefix": "cfu-align-content-space-evenly",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-content-space-evenly"
+    ]
+  },
+  "align-items-normal": {
+    "prefix": "cfu-align-items-normal",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-normal"
+    ]
+  },
+  "align-items-stretch": {
+    "prefix": "cfu-align-items-stretch",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-stretch"
+    ]
+  },
+  "align-items-center": {
+    "prefix": "cfu-align-items-center",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-center"
+    ]
+  },
+  "align-items-start": {
+    "prefix": "cfu-align-items-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-start"
+    ]
+  },
+  "align-items-end": {
+    "prefix": "cfu-align-items-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-end"
+    ]
+  },
+  "align-items-flex-start": {
+    "prefix": "cfu-align-items-flex-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-flex-start"
+    ]
+  },
+  "align-items-flex-end": {
+    "prefix": "cfu-align-items-flex-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-flex-end"
+    ]
+  },
+  "align-items-self-start": {
+    "prefix": "cfu-align-items-self-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-self-start"
+    ]
+  },
+  "align-items-self-end": {
+    "prefix": "cfu-align-items-self-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-self-end"
+    ]
+  },
+  "align-items-baseline": {
+    "prefix": "cfu-align-items-baseline",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-items-baseline"
+    ]
+  },
+  "align-self-auto": {
+    "prefix": "cfu-align-self-auto",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-auto"
+    ]
+  },
+  "align-self-normal": {
+    "prefix": "cfu-align-self-normal",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-normal"
+    ]
+  },
+  "align-self-center": {
+    "prefix": "cfu-align-self-center",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-center"
+    ]
+  },
+  "align-self-start": {
+    "prefix": "cfu-align-self-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-start"
+    ]
+  },
+  "align-self-end": {
+    "prefix": "cfu-align-self-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-end"
+    ]
+  },
+  "align-self-flex-start": {
+    "prefix": "cfu-align-self-flex-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-flex-start"
+    ]
+  },
+  "align-self-flex-end": {
+    "prefix": "cfu-align-self-flex-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-flex-end"
+    ]
+  },
+  "align-self-self-start": {
+    "prefix": "cfu-align-self-self-start",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-self-start"
+    ]
+  },
+  "align-self-self-end": {
+    "prefix": "cfu-align-self-self-end",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-self-end"
+    ]
+  },
+  "align-self-baseline": {
+    "prefix": "cfu-align-self-baseline",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-baseline"
+    ]
+  },
+  "align-self-stretch": {
+    "prefix": "cfu-align-self-stretch",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-align-self-stretch"
+    ]
+  },
+  "flex-grow-1": {
+    "prefix": "cfu-flex-grow-1",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-grow-1"
+    ]
+  },
+  "flex-grow-2": {
+    "prefix": "cfu-flex-grow-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-grow-2"
+    ]
+  },
+  "flex-grow-3": {
+    "prefix": "cfu-flex-grow-3",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-grow-3"
+    ]
+  },
+  "flex-grow-10": {
+    "prefix": "cfu-flex-grow-10",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-flex-grow-10"
+    ]
+  },
+  "alert": {
+    "prefix": "cfl-icon--alert",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--alert"
+    ]
+  },
+  "open-new-window": {
+    "prefix": "cfl-icon--open-new-window",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--open-new-window"
+    ]
+  },
+  "slideout": {
+    "prefix": "cfl-icon--slideout",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--slideout"
+    ]
+  },
+  "attachment": {
+    "prefix": "cfl-icon--attachment",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--attachment"
+    ]
+  },
+  "rename": {
+    "prefix": "cfl-icon--rename",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--rename"
+    ]
+  },
+  "history": {
+    "prefix": "cfl-icon--history",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--history"
+    ]
+  },
+  "close": {
+    "prefix": "cfl-icon--close",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--close"
+    ]
+  },
+  "plus": {
+    "prefix": "cfl-icon--plus",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--plus"
+    ]
+  },
+  "minus": {
+    "prefix": "cfl-icon--minus",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--minus"
+    ]
+  },
+  "print": {
+    "prefix": "cfl-icon--print",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--print"
+    ]
+  },
+  "delete": {
+    "prefix": "cfl-icon--delete",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--delete"
+    ]
+  },
+  "template": {
+    "prefix": "cfl-icon--template",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--template"
+    ]
+  },
+  "edit": {
+    "prefix": "cfl-icon--edit",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--edit"
+    ]
+  },
+  "edit-note": {
+    "prefix": "cfl-icon--edit-note",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--edit-note"
+    ]
+  },
+  "patient": {
+    "prefix": "cfl-icon--patient",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--patient"
+    ]
+  },
+  "patient-group": {
+    "prefix": "cfl-icon--patient-group",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--patient-group"
+    ]
+  },
+  "patient-collection": {
+    "prefix": "cfl-icon--patient-collection",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--patient-collection"
+    ]
+  },
+  "new-patient": {
+    "prefix": "cfl-icon--new-patient",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--new-patient"
+    ]
+  },
+  "tick": {
+    "prefix": "cfl-icon--tick",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--tick"
+    ]
+  },
+  "success": {
+    "prefix": "cfl-icon--success",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--success"
+    ]
+  },
+  "hour-glass": {
+    "prefix": "cfl-icon--hour-glass",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--hour-glass"
+    ]
+  },
+  "location": {
+    "prefix": "cfl-icon--location",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--location"
+    ]
+  },
+  "clock": {
+    "prefix": "cfl-icon--clock",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--clock"
+    ]
+  },
+  "set-count": {
+    "prefix": "cfl-icon--set-count",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--set-count"
+    ]
+  },
+  "info-outline": {
+    "prefix": "cfl-icon--info-outline",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--info-outline"
+    ]
+  },
+  "info-solid": {
+    "prefix": "cfl-icon--info-solid",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--info-solid"
+    ]
+  },
+  "attention": {
+    "prefix": "cfl-icon--attention",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--attention"
+    ]
+  },
+  "caution": {
+    "prefix": "cfl-icon--caution",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--caution"
+    ]
+  },
+  "warning": {
+    "prefix": "cfl-icon--warning",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--warning"
+    ]
+  },
+  "cursor": {
+    "prefix": "cfl-icon--cursor",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--cursor"
+    ]
+  },
+  "ortho": {
+    "prefix": "cfl-icon--ortho",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--ortho"
+    ]
+  },
+  "form": {
+    "prefix": "cfl-icon--form",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--form"
+    ]
+  },
+  "goal": {
+    "prefix": "cfl-icon--goal",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--goal"
+    ]
+  },
+  "grid": {
+    "prefix": "cfl-icon--grid",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--grid"
+    ]
+  },
+  "notes": {
+    "prefix": "cfl-icon--notes",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--notes"
+    ]
+  },
+  "archive": {
+    "prefix": "cfl-icon--archive",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--archive"
+    ]
+  },
+  "calendar": {
+    "prefix": "cfl-icon--calendar",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--calendar"
+    ]
+  },
+  "users": {
+    "prefix": "cfl-icon--users",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--users"
+    ]
+  },
+  "chart": {
+    "prefix": "cfl-icon--chart",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--chart"
+    ]
+  },
+  "megaphone": {
+    "prefix": "cfl-icon--megaphone",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--megaphone"
+    ]
+  },
+  "provider": {
+    "prefix": "cfl-icon--provider",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--provider"
+    ]
+  },
+  "home": {
+    "prefix": "cfl-icon--home",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--home"
+    ]
+  },
+  "hx": {
+    "prefix": "cfl-icon--hx",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--hx"
+    ]
+  },
+  "prescription": {
+    "prefix": "cfl-icon--prescription",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--prescription"
+    ]
+  },
+  "filter": {
+    "prefix": "cfl-icon--filter",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--filter"
+    ]
+  },
+  "settings": {
+    "prefix": "cfl-icon--settings",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--settings"
+    ]
+  },
+  "providers": {
+    "prefix": "cfl-icon--providers",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--providers"
+    ]
+  },
+  "send": {
+    "prefix": "cfl-icon--send",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--send"
+    ]
+  },
+  "search": {
+    "prefix": "cfl-icon--search",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--search"
+    ]
+  },
+  "treatment": {
+    "prefix": "cfl-icon--treatment",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--treatment"
+    ]
+  },
+  "teeth-outline": {
+    "prefix": "cfl-icon--teeth-outline",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--teeth-outline"
+    ]
+  },
+  "teeth-solid": {
+    "prefix": "cfl-icon--teeth-solid",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--teeth-solid"
+    ]
+  },
+  "link": {
+    "prefix": "cfc-link-default",
+    "description": "careflow classname",
+    "body": [
+      "cfc-link cfc-link--default"
+    ]
+  },
+  "not-scheduled": {
+    "prefix": "cfl-icon--not-scheduled",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--not-scheduled"
+    ]
+  },
+  "customise": {
+    "prefix": "cfl-icon--customise",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--customise"
+    ]
+  },
+  "duplicate-user": {
+    "prefix": "cfl-icon--duplicate-user",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--duplicate-user"
+    ]
+  },
+  "kpi": {
+    "prefix": "cfl-icon--kpi",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--kpi"
+    ]
+  },
+  "operatory": {
+    "prefix": "cfl-icon--operatory",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--operatory"
+    ]
+  },
+  "learn": {
+    "prefix": "cfl-icon--learn",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--learn"
+    ]
+  },
+  "overview": {
+    "prefix": "cfl-icon--overview",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--overview"
+    ]
+  },
+  "short-call": {
+    "prefix": "cfl-icon--short-call",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--short-call"
+    ]
+  },
+  "dollar": {
+    "prefix": "cfl-icon--dollar",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--dollar"
+    ]
+  },
+  "hamburger-menu": {
+    "prefix": "cfl-icon--hamburger-menu",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--hamburger-menu"
+    ]
+  },
+  "kebab-menu": {
+    "prefix": "cfl-icon--kebab-menu",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--kebab-menu"
+    ]
+  },
+  "eye-hide": {
+    "prefix": "cfl-icon--eye-hide",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--eye-hide"
+    ]
+  },
+  "eye-show": {
+    "prefix": "cfl-icon--eye-show",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--eye-show"
+    ]
+  },
+  "sync": {
+    "prefix": "cfl-icon--sync",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--sync"
+    ]
+  },
+  "drag": {
+    "prefix": "cfl-icon--drag",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--drag"
+    ]
+  },
+  "help": {
+    "prefix": "cfl-icon--help",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--help"
+    ]
+  },
+  "reschedule": {
+    "prefix": "cfl-icon--reschedule",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--reschedule"
+    ]
+  },
+  "erase": {
+    "prefix": "cfl-icon--erase",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--erase"
+    ]
+  },
+  "void": {
+    "prefix": "cfl-icon--void",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--void"
+    ]
+  },
+  "iris": {
+    "prefix": "cfl-icon--iris",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--iris"
+    ]
+  },
+  "reports": {
+    "prefix": "cfl-icon--reports",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--reports"
+    ]
+  },
+  "ownload": {
+    "prefix": "cfl-icon--ownload",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--ownload"
+    ]
+  },
+  "swap": {
+    "prefix": "cfl-icon--swap",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--swap"
+    ]
+  },
+  "star": {
+    "prefix": "cfl-icon--star",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--star"
+    ]
+  },
+  "star-filled": {
+    "prefix": "cfl-icon--star-filled",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--star-filled"
+    ]
+  },
+  "normal-mode": {
+    "prefix": "cfl-icon--normal-mode",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--normal-mode"
+    ]
+  },
+  "burst-mode": {
+    "prefix": "cfl-icon--burst-mode",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--burst-mode"
+    ]
+  },
+  "cdt": {
+    "prefix": "cfl-icon--cdt",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--cdt"
+    ]
+  },
+  "sds": {
+    "prefix": "cfl-icon--sds",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--sds"
+    ]
+  },
+  "nor": {
+    "prefix": "cfl-icon--nor",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--nor"
+    ]
+  },
+  "patient-view": {
+    "prefix": "cfl-icon--patient-view",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--patient-view"
+    ]
+  },
+  "hipaa-view": {
+    "prefix": "cfl-icon--hipaa-view",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--hipaa-view"
+    ]
+  },
+  "custom-view": {
+    "prefix": "cfl-icon--custom-view",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--custom-view"
+    ]
+  },
+  "eligibility-view": {
+    "prefix": "cfl-icon--eligibility-view",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--eligibility-view"
+    ]
+  },
+  "claim-view": {
+    "prefix": "cfl-icon--claim-view",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--claim-view"
+    ]
+  },
+  "folder": {
+    "prefix": "cfl-icon--folder",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--folder"
+    ]
+  },
+  "camera": {
+    "prefix": "cfl-icon--camera",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--camera"
+    ]
+  },
+  "scan": {
+    "prefix": "cfl-icon--scan",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--scan"
+    ]
+  },
+  "file-upload": {
+    "prefix": "cfl-icon--file-upload",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--file-upload"
+    ]
+  },
+  "duplicate": {
+    "prefix": "cfl-icon--duplicate",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--duplicate"
+    ]
+  },
+  "email": {
+    "prefix": "cfl-icon--email",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--email"
+    ]
+  },
+  "business": {
+    "prefix": "cfl-icon--business",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--business"
+    ]
+  },
+  "recent-items": {
+    "prefix": "cfl-icon--recent-items",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--recent-items"
+    ]
+  },
+  "pos": {
+    "prefix": "cfl-icon--pos",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--pos"
+    ]
+  },
+  "volume": {
+    "prefix": "cfl-icon--volume",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--volume"
+    ]
+  },
+  "paragraph": {
+    "prefix": "cfl-icon--paragraph",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--paragraph"
+    ]
+  },
+  "long-answer": {
+    "prefix": "cfl-icon--long-answer",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--long-answer"
+    ]
+  },
+  "divider": {
+    "prefix": "cfl-icon--divider",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--divider"
+    ]
+  },
+  "signature": {
+    "prefix": "cfl-icon--signature",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--signature"
+    ]
+  },
+  "form-header": {
+    "prefix": "cfl-icon--form-header",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--form-header"
+    ]
+  },
+  "short-answer": {
+    "prefix": "cfl-icon--short-answer",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--short-answer"
+    ]
+  },
+  "system-component": {
+    "prefix": "cfl-icon--system-component",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--system-component"
+    ]
+  },
+  "phone": {
+    "prefix": "cfl-icon--phone",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--phone"
+    ]
+  },
+  "medicine": {
+    "prefix": "cfl-icon--medicine",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--medicine"
+    ]
+  },
+  "reset-color": {
+    "prefix": "cfl-icon--reset-color",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--reset-color"
+    ]
+  },
+  "disable": {
+    "prefix": "cfl-icon--disable",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--disable"
+    ]
+  },
+  "report-desc": {
+    "prefix": "cfl-icon--report-desc",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--report-desc"
+    ]
+  },
+  "group-transaction": {
+    "prefix": "cfl-icon--group-transaction",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--group-transaction"
+    ]
+  },
+  "ungroup-transaction": {
+    "prefix": "cfl-icon--ungroup-transaction",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--ungroup-transaction"
+    ]
+  },
+  "emoji": {
+    "prefix": "cfl-icon--emoji",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--emoji"
+    ]
+  },
+  "mute": {
+    "prefix": "cfl-icon--mute",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--mute"
+    ]
+  },
+  "mute-alt": {
+    "prefix": "cfl-icon--mute-alt",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--mute-alt"
+    ]
+  },
+  "timezone": {
+    "prefix": "cfl-icon--timezone",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--timezone"
+    ]
+  },
+  "cut": {
+    "prefix": "cfl-icon--cut",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--cut"
+    ]
+  },
+  "tracker": {
+    "prefix": "cfl-icon--tracker",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--tracker"
+    ]
+  },
+  "share": {
+    "prefix": "cfl-icon--share",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--share"
+    ]
+  },
+  "fax": {
+    "prefix": "cfl-icon--fax",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--fax"
+    ]
+  },
+  "close-alt": {
+    "prefix": "cfl-icon--close-alt",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--close-alt"
+    ]
+  },
+  "lock": {
+    "prefix": "cfl-icon--lock",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--lock"
+    ]
+  },
+  "menu": {
+    "prefix": "cfl-icon--menu",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--menu"
+    ]
+  },
+  "find-slot": {
+    "prefix": "cfl-icon--find-slot",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--find-slot"
+    ]
+  },
+  "lists": {
+    "prefix": "cfl-icon--lists",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--lists"
+    ]
+  },
+  "appointment": {
+    "prefix": "cfl-icon--appointment",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--appointment"
+    ]
+  },
+  "medical-alert": {
+    "prefix": "cfl-icon--medical-alert",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--medical-alert"
+    ]
+  },
+  "patient-alert": {
+    "prefix": "cfl-icon--patient-alert",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--patient-alert"
+    ]
+  },
+  "billing": {
+    "prefix": "cfl-icon--billing",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--billing"
+    ]
+  },
+  "insurance": {
+    "prefix": "cfl-icon--insurance",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--insurance"
+    ]
+  },
+  "document": {
+    "prefix": "cfl-icon--document",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--document"
+    ]
+  },
+  "medical-history": {
+    "prefix": "cfl-icon--medical-history",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--medical-history"
+    ]
+  },
+  "memo": {
+    "prefix": "cfl-icon--memo",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--memo"
+    ]
+  },
+  "profile": {
+    "prefix": "cfl-icon--profile",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--profile"
+    ]
+  },
+  "clinical-case": {
+    "prefix": "cfl-icon--clinical-case",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--clinical-case"
+    ]
+  },
+  "clinical": {
+    "prefix": "cfl-icon--clinical",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--clinical"
+    ]
+  },
+  "dashboard": {
+    "prefix": "cfl-icon--dashboard",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--dashboard"
+    ]
+  },
+  "scheduler": {
+    "prefix": "cfl-icon--scheduler",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--scheduler"
+    ]
+  },
+  "appt-list": {
+    "prefix": "cfl-icon--appt-list",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--appt-list"
+    ]
+  },
+  "prod-calendar": {
+    "prefix": "cfl-icon--prod-calendar",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--prod-calendar"
+    ]
+  },
+  "lab-case": {
+    "prefix": "cfl-icon--lab-case",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--lab-case"
+    ]
+  },
+  "claims": {
+    "prefix": "cfl-icon--claims",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--claims"
+    ]
+  },
+  "patient-payment": {
+    "prefix": "cfl-icon--patient-payment",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--patient-payment"
+    ]
+  },
+  "insurance-payments": {
+    "prefix": "cfl-icon--insurance-payments",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--insurance-payments"
+    ]
+  },
+  "collection-payments": {
+    "prefix": "cfl-icon--collection-payments",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--collection-payments"
+    ]
+  },
+  "payment-trans-list": {
+    "prefix": "cfl-icon--payment-trans-list",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--payment-trans-list"
+    ]
+  },
+  "cs-pay": {
+    "prefix": "cfl-icon--cs-pay",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--cs-pay"
+    ]
+  },
+  "e-remittence": {
+    "prefix": "cfl-icon--e-remittence",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--e-remittence"
+    ]
+  },
+  "pre-auth": {
+    "prefix": "cfl-icon--pre-auth",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--pre-auth"
+    ]
+  },
+  "ortho-plan": {
+    "prefix": "cfl-icon--ortho-plan",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--ortho-plan"
+    ]
+  },
+  "completed-procedures": {
+    "prefix": "cfl-icon--completed-procedures",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--completed-procedures"
+    ]
+  },
+  "statements": {
+    "prefix": "cfl-icon--statements",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--statements"
+    ]
+  },
+  "close-out": {
+    "prefix": "cfl-icon--close-out",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--close-out"
+    ]
+  },
+  "messages": {
+    "prefix": "cfl-icon--messages",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--messages"
+    ]
+  },
+  "all-patients": {
+    "prefix": "cfl-icon--all-patients",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--all-patients"
+    ]
+  },
+  "practice-providers": {
+    "prefix": "cfl-icon--practice-providers",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--practice-providers"
+    ]
+  },
+  "referral-providers": {
+    "prefix": "cfl-icon--referral-providers",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--referral-providers"
+    ]
+  },
+  "audit-trail": {
+    "prefix": "cfl-icon--audit-trail",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--audit-trail"
+    ]
+  },
+  "time-clock": {
+    "prefix": "cfl-icon--time-clock",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--time-clock"
+    ]
+  },
+  "pat-engagement": {
+    "prefix": "cfl-icon--pat-engagement",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--pat-engagement"
+    ]
+  },
+  "curbside-checkin": {
+    "prefix": "cfl-icon--curbside-checkin",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--curbside-checkin"
+    ]
+  },
+  "referral-tracker": {
+    "prefix": "cfl-icon--referral-tracker",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--referral-tracker"
+    ]
+  },
+  "operational-reports": {
+    "prefix": "cfl-icon--operational-reports",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--operational-reports"
+    ]
+  },
+  "scorecards": {
+    "prefix": "cfl-icon--scorecards",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--scorecards"
+    ]
+  },
+  "analytics-dashboard": {
+    "prefix": "cfl-icon--analytics-dashboard",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--analytics-dashboard"
+    ]
+  },
+  "eod-report": {
+    "prefix": "cfl-icon--eod-report",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--eod-report"
+    ]
+  },
+  "opportunity-miner": {
+    "prefix": "cfl-icon--opportunity-miner",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--opportunity-miner"
+    ]
+  },
+  "patient-list": {
+    "prefix": "cfl-icon--patient-list",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--patient-list"
+    ]
+  },
+  "scheduled-downloads": {
+    "prefix": "cfl-icon--scheduled-downloads",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--scheduled-downloads"
+    ]
+  },
+  "membership-plan": {
+    "prefix": "cfl-icon--membership-plan",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--membership-plan"
+    ]
+  },
+  "user-profile": {
+    "prefix": "cfl-icon--user-profile",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--user-profile"
+    ]
+  },
+  "user-settings": {
+    "prefix": "cfl-icon--user-settings",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--user-settings"
+    ]
+  },
+  "practice-settings": {
+    "prefix": "cfl-icon--practice-settings",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--practice-settings"
+    ]
+  },
+  "user-resource": {
+    "prefix": "cfl-icon--user-resource",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--user-resource"
+    ]
+  },
+  "screen-guidance": {
+    "prefix": "cfl-icon--screen-guidance",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--screen-guidance"
+    ]
+  },
+  "carestack-university": {
+    "prefix": "cfl-icon--carestack-university",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--carestack-university"
+    ]
+  },
+  "support-chat": {
+    "prefix": "cfl-icon--support-chat",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--support-chat"
+    ]
+  },
+  "give-feedback": {
+    "prefix": "cfl-icon--give-feedback",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--give-feedback"
+    ]
+  },
+  "logout": {
+    "prefix": "cfl-icon--logout",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--logout"
+    ]
+  },
+  "provider-availability": {
+    "prefix": "cfl-icon--provider-availability",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--provider-availability"
+    ]
+  },
+  "case-acceptance": {
+    "prefix": "cfl-icon--case-acceptance",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--case-acceptance"
+    ]
+  },
+  "custom-reports": {
+    "prefix": "cfl-icon--custom-reports",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--custom-reports"
+    ]
+  },
+  "other-expenses": {
+    "prefix": "cfl-icon--other-expenses",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--other-expenses"
+    ]
+  },
+  "clock-in": {
+    "prefix": "cfl-icon--clock-in",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--clock-in"
+    ]
+  },
+  "clock-out": {
+    "prefix": "cfl-icon--clock-out",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--clock-out"
+    ]
+  },
+  "angle-right": {
+    "prefix": "cfl-icon--angle-right",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--angle-right"
+    ]
+  },
+  "angle-left": {
+    "prefix": "cfl-icon--angle-left",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--angle-left"
+    ]
+  },
+  "angle-up": {
+    "prefix": "cfl-icon--angle-up",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--angle-up"
+    ]
+  },
+  "arrow-down": {
+    "prefix": "cfl-icon--arrow-down",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--arrow-down"
+    ]
+  },
+  "arrow-left": {
+    "prefix": "cfl-icon--arrow-left",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--arrow-left"
+    ]
+  },
+  "arrow-right": {
+    "prefix": "cfl-icon--arrow-right",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--arrow-right"
+    ]
+  },
+  "arrow-up": {
+    "prefix": "cfl-icon--arrow-up",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--arrow-up"
+    ]
+  },
+  "seek-right": {
+    "prefix": "cfl-icon--seek-right",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--seek-right"
+    ]
+  },
+  "seek-left": {
+    "prefix": "cfl-icon--seek-left",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--seek-left"
+    ]
+  },
+  "slider": {
+    "prefix": "cfl-icon--slider",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--slider"
+    ]
+  },
+  "arrow-up-down": {
+    "prefix": "cfl-icon--arrow-up-down",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--arrow-up-down"
+    ]
+  },
+  "bold": {
+    "prefix": "cfl-icon--bold",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--bold"
+    ]
+  },
+  "italics": {
+    "prefix": "cfl-icon--italics",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--italics"
+    ]
+  },
+  "underline": {
+    "prefix": "cfl-icon--underline",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--underline"
+    ]
+  },
+  "decrease-indent": {
+    "prefix": "cfl-icon--decrease-indent",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--decrease-indent"
+    ]
+  },
+  "increase-indent": {
+    "prefix": "cfl-icon--increase-indent",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--increase-indent"
+    ]
+  },
+  "align-left": {
+    "prefix": "cfl-icon--align-left",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--align-left"
+    ]
+  },
+  "align-center": {
+    "prefix": "cfl-icon--align-center",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--align-center"
+    ]
+  },
+  "align-right": {
+    "prefix": "cfl-icon--align-right",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--align-right"
+    ]
+  },
+  "numbered-list": {
+    "prefix": "cfl-icon--numbered-list",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--numbered-list"
+    ]
+  },
+  "bulleted-list": {
+    "prefix": "cfl-icon--bulleted-list",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--bulleted-list"
+    ]
+  },
+  "text": {
+    "prefix": "cfl-icon--text",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--text"
+    ]
+  },
+  "quote": {
+    "prefix": "cfl-icon--quote",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--quote"
+    ]
+  },
+  "dropdown": {
+    "prefix": "cfl-icon--dropdown",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--dropdown"
+    ]
+  },
+  "date-picker": {
+    "prefix": "cfl-icon--date-picker",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--date-picker"
+    ]
+  },
+  "single-choice": {
+    "prefix": "cfl-icon--single-choice",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--single-choice"
+    ]
+  },
+  "multiple-choice": {
+    "prefix": "cfl-icon--multiple-choice",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--multiple-choice"
+    ]
+  },
+  "undo": {
+    "prefix": "cfl-icon--undo",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--undo"
+    ]
+  },
+  "redo": {
+    "prefix": "cfl-icon--redo",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--redo"
+    ]
+  },
+  "image": {
+    "prefix": "cfl-icon--image",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--image"
+    ]
+  },
+  "heading": {
+    "prefix": "cfl-icon--heading",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--heading"
+    ]
+  },
+  "heading-1": {
+    "prefix": "cfl-icon--heading-1",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--heading-1"
+    ]
+  },
+  "heading-2": {
+    "prefix": "cfl-icon--heading-2",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--heading-2"
+    ]
+  },
+  "textcolour": {
+    "prefix": "cfl-icon--textcolour",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--textcolour"
+    ]
+  },
+  "zoom-in": {
+    "prefix": "cfl-icon--zoom-in",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--zoom-in"
+    ]
+  },
+  "zoom-out": {
+    "prefix": "cfl-icon--zoom-out",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--zoom-out"
+    ]
+  },
+  "crop": {
+    "prefix": "cfl-icon--crop",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--crop"
+    ]
+  },
+  "rotate-left": {
+    "prefix": "cfl-icon--rotate-left",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--rotate-left"
+    ]
+  },
+  "rotate-right": {
+    "prefix": "cfl-icon--rotate-right",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--rotate-right"
+    ]
+  },
+  "flip-horizontal": {
+    "prefix": "cfl-icon--flip-horizontal",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--flip-horizontal"
+    ]
+  },
+  "flip-vertical": {
+    "prefix": "cfl-icon--flip-vertical",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--flip-vertical"
+    ]
+  },
+  "hand": {
+    "prefix": "cfl-icon--hand",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--hand"
+    ]
+  },
+  "brightness": {
+    "prefix": "cfl-icon--brightness",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--brightness"
+    ]
+  },
+  "contrast": {
+    "prefix": "cfl-icon--contrast",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--contrast"
+    ]
+  },
+  "sharpness": {
+    "prefix": "cfl-icon--sharpness",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--sharpness"
+    ]
+  },
+  "whatsapp": {
+    "prefix": "cfl-icon--whatsapp",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "refer-out": {
+    "prefix": "cfl-icon--refer-out",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "perio": {
+    "prefix": "cfl-icon--perio",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "ledger": {
+    "prefix": "cfl-icon--ledger",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "manage-plan": {
+    "prefix": "cfl-icon--manage-plan",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "migrated-tx": {
+    "prefix": "cfl-icon--migrated-tx",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "pin": {
+    "prefix": "cfl-icon--pin",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "unpin": {
+    "prefix": "cfl-icon--unpin",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "card": {
+    "prefix": "cfl-icon--card",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "card-filled": {
+    "prefix": "cfl-icon--card-filled",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "do-not-disturb": {
+    "prefix": "cfl-icon--do-not-disturb",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "mark-as-read": {
+    "prefix": "cfl-icon--mark-as-read",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "meridian": {
+    "prefix": "cfl-icon--meridian",
+    "description": "careflow Icons",
+    "body": [
+      "cfl-icon--whatsapp"
+    ]
+  },
+  "position static": {
+    "prefix": "cfu-position-static",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-position-static"
+    ]
+  },
+  "position relative": {
+    "prefix": "cfu-position-relative",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-position-relative"
+    ]
+  },
+  "position fixed": {
+    "prefix": "cfu-position-fixed",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-position-fixed"
+    ]
+  },
+  "position absolute": {
+    "prefix": "cfu-position-absolute",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-position-absolute"
+    ]
+  },
+  "position stick": {
+    "prefix": "cfu-position-stick",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-position-stick"
+    ]
+  },
+  "resize-none": {
+    "prefix": "cfu-resize-none",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-resize-none"
+    ]
+  },
+  "resize-both": {
+    "prefix": "cfu-resize-both",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-resize-both"
+    ]
+  },
+  "resize-horizontal": {
+    "prefix": "cfu-resize-horizontal",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-resize-horizontal"
+    ]
+  },
+  "resize-vertical": {
+    "prefix": "cfu-resize-vertical",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-resize-vertical"
+    ]
+  },
+  "scroll-none": {
+    "prefix": "cfu-scroll-none",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-scroll-none"
+    ]
+  },
+  "scroll-both": {
+    "prefix": "cfu-scroll-both",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-scroll-both"
+    ]
+  },
+  "scroll-vertical": {
+    "prefix": "cfu-scroll-vertical",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-scroll-vertical"
+    ]
+  },
+  "scroll-horizontal": {
+    "prefix": "cfu-scroll-horizontal",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-scroll-horizontal"
+    ]
+  },
+  "height percentage 100": {
+    "prefix": "cfu-height-percentage-100",
+    "description": "careflow classname",
+    "body": [
+      "cfu-height-percentage-100"
+    ]
+  },
+  "height percentage 80": {
+    "prefix": "cfu-height-percentage-80",
+    "description": "careflow classname",
+    "body": [
+      "cfu-height-percentage-80"
+    ]
+  },
+  "height percentage 40": {
+    "prefix": "cfu-height-percentage-40",
+    "description": "careflow classname",
+    "body": [
+      "cfu-height-percentage-40"
+    ]
+  },
+  "height percentage 10": {
+    "prefix": "cfu-height-percentage-10",
+    "description": "careflow classname",
+    "body": [
+      "cfu-height-percentage-10"
+    ]
+  },
+  "width percentage 100": {
+    "prefix": "cfu-width-percentage-100",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-percentage-100"
+    ]
+  },
+  "width percentage 80": {
+    "prefix": "cfu-width-percentage-80",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-percentage-80"
+    ]
+  },
+  "width percentage 40": {
+    "prefix": "cfu-width-percentage-40",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-percentage-40"
+    ]
+  },
+  "width percentage 10": {
+    "prefix": "cfu-width-percentage-10",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-percentage-10"
+    ]
+  },
+  "width column 1": {
+    "prefix": "cfu-width-column-1",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-column-1"
+    ]
+  },
+  "width column 4": {
+    "prefix": "cfu-width-column-4",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-column-4"
+    ]
+  },
+  "width column 8": {
+    "prefix": "cfu-width-column-8",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-column-8"
+    ]
+  },
+  "width column 12": {
+    "prefix": "cfu-width-column-12",
+    "description": "careflow classname",
+    "body": [
+      "cfu-width-column-12"
+    ]
+  },
+  "gap-2": {
+    "prefix": "cfu-gap-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-2"
+    ]
+  },
+  "gap-4": {
+    "prefix": "cfu-gap-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-4"
+    ]
+  },
+  "gap-8": {
+    "prefix": "cfu-gap-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-8"
+    ]
+  },
+  "gap-12": {
+    "prefix": "cfu-gap-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-12"
+    ]
+  },
+  "gap-16": {
+    "prefix": "cfu-gap-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-16"
+    ]
+  },
+  "gap-24": {
+    "prefix": "cfu-gap-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-24"
+    ]
+  },
+  "gap-32": {
+    "prefix": "cfu-gap-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-32"
+    ]
+  },
+  "gap-48": {
+    "prefix": "cfu-gap-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-gap-48"
+    ]
+  },
+  "row-gap-2": {
+    "prefix": "cfu-row-gap-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-2"
+    ]
+  },
+  "row-gap-4": {
+    "prefix": "cfu-row-gap-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-4"
+    ]
+  },
+  "row-gap-8": {
+    "prefix": "cfu-row-gap-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-8"
+    ]
+  },
+  "row-gap-12": {
+    "prefix": "cfu-row-gap-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-12"
+    ]
+  },
+  "row-gap-16": {
+    "prefix": "cfu-row-gap-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-16"
+    ]
+  },
+  "row-gap-24": {
+    "prefix": "cfu-row-gap-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-24"
+    ]
+  },
+  "row-gap-32": {
+    "prefix": "cfu-row-gap-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-32"
+    ]
+  },
+  "row-gap-48": {
+    "prefix": "cfu-row-gap-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-row-gap-48"
+    ]
+  },
+  "column-gap-2": {
+    "prefix": "cfu-column-gap-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-2"
+    ]
+  },
+  "column-gap-4": {
+    "prefix": "cfu-column-gap-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-4"
+    ]
+  },
+  "column-gap-8": {
+    "prefix": "cfu-column-gap-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-8"
+    ]
+  },
+  "column-gap-12": {
+    "prefix": "cfu-column-gap-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-12"
+    ]
+  },
+  "column-gap-16": {
+    "prefix": "cfu-column-gap-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-16"
+    ]
+  },
+  "column-gap-24": {
+    "prefix": "cfu-column-gap-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-24"
+    ]
+  },
+  "column-gap-32": {
+    "prefix": "cfu-column-gap-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-32"
+    ]
+  },
+  "column-gap-48": {
+    "prefix": "cfu-column-gap-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-column-gap-48"
+    ]
+  },
+  "margin-2": {
+    "prefix": "cfu-margin-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-2"
+    ]
+  },
+  "margin-4": {
+    "prefix": "cfu-margin-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-4"
+    ]
+  },
+  "margin-8": {
+    "prefix": "cfu-margin-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-8"
+    ]
+  },
+  "margin-12": {
+    "prefix": "cfu-margin-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-12"
+    ]
+  },
+  "margin-16": {
+    "prefix": "cfu-margin-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-16"
+    ]
+  },
+  "margin-24": {
+    "prefix": "cfu-margin-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-24"
+    ]
+  },
+  "margin-32": {
+    "prefix": "cfu-margin-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-32"
+    ]
+  },
+  "margin-48": {
+    "prefix": "cfu-margin-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-48"
+    ]
+  },
+  "margin-top-2": {
+    "prefix": "cfu-margin-top-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-2"
+    ]
+  },
+  "margin-top-4": {
+    "prefix": "cfu-margin-top-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-4"
+    ]
+  },
+  "margin-top-8": {
+    "prefix": "cfu-margin-top-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-8"
+    ]
+  },
+  "margin-top-12": {
+    "prefix": "cfu-margin-top-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-12"
+    ]
+  },
+  "margin-top-16": {
+    "prefix": "cfu-margin-top-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-16"
+    ]
+  },
+  "margin-top-24": {
+    "prefix": "cfu-margin-top-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-24"
+    ]
+  },
+  "margin-top-32": {
+    "prefix": "cfu-margin-top-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-32"
+    ]
+  },
+  "margin-top-48": {
+    "prefix": "cfu-margin-top-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-top-48"
+    ]
+  },
+  "margin-right-2": {
+    "prefix": "cfu-margin-right-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-2"
+    ]
+  },
+  "margin-right-4": {
+    "prefix": "cfu-margin-right-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-4"
+    ]
+  },
+  "margin-right-8": {
+    "prefix": "cfu-margin-right-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-8"
+    ]
+  },
+  "margin-right-12": {
+    "prefix": "cfu-margin-right-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-12"
+    ]
+  },
+  "margin-right-16": {
+    "prefix": "cfu-margin-right-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-16"
+    ]
+  },
+  "margin-right-24": {
+    "prefix": "cfu-margin-right-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-24"
+    ]
+  },
+  "margin-right-32": {
+    "prefix": "cfu-margin-right-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-32"
+    ]
+  },
+  "margin-right-48": {
+    "prefix": "cfu-margin-right-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-right-48"
+    ]
+  },
+  "margin-bottom-2": {
+    "prefix": "cfu-margin-bottom-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-2"
+    ]
+  },
+  "margin-bottom-4": {
+    "prefix": "cfu-margin-bottom-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-4"
+    ]
+  },
+  "margin-bottom-8": {
+    "prefix": "cfu-margin-bottom-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-8"
+    ]
+  },
+  "margin-bottom-12": {
+    "prefix": "cfu-margin-bottom-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-12"
+    ]
+  },
+  "margin-bottom-16": {
+    "prefix": "cfu-margin-bottom-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-16"
+    ]
+  },
+  "margin-bottom-24": {
+    "prefix": "cfu-margin-bottom-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-24"
+    ]
+  },
+  "margin-bottom-32": {
+    "prefix": "cfu-margin-bottom-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-32"
+    ]
+  },
+  "margin-bottom-48": {
+    "prefix": "cfu-margin-bottom-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-bottom-48"
+    ]
+  },
+  "margin-left-2": {
+    "prefix": "cfu-margin-left-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-2"
+    ]
+  },
+  "margin-left-4": {
+    "prefix": "cfu-margin-left-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-4"
+    ]
+  },
+  "margin-left-8": {
+    "prefix": "cfu-margin-left-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-8"
+    ]
+  },
+  "margin-left-12": {
+    "prefix": "cfu-margin-left-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-12"
+    ]
+  },
+  "margin-left-16": {
+    "prefix": "cfu-margin-left-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-16"
+    ]
+  },
+  "margin-left-24": {
+    "prefix": "cfu-margin-left-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-24"
+    ]
+  },
+  "margin-left-32": {
+    "prefix": "cfu-margin-left-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-32"
+    ]
+  },
+  "margin-left-48": {
+    "prefix": "cfu-margin-left-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-left-48"
+    ]
+  },
+  "margin-horizontal-2": {
+    "prefix": "cfu-margin-horizontal-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-2"
+    ]
+  },
+  "margin-horizontal-4": {
+    "prefix": "cfu-margin-horizontal-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-4"
+    ]
+  },
+  "margin-horizontal-8": {
+    "prefix": "cfu-margin-horizontal-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-8"
+    ]
+  },
+  "margin-horizontal-12": {
+    "prefix": "cfu-margin-horizontal-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-12"
+    ]
+  },
+  "margin-horizontal-16": {
+    "prefix": "cfu-margin-horizontal-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-16"
+    ]
+  },
+  "margin-horizontal-24": {
+    "prefix": "cfu-margin-horizontal-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-24"
+    ]
+  },
+  "margin-horizontal-32": {
+    "prefix": "cfu-margin-horizontal-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-32"
+    ]
+  },
+  "margin-horizontal-48": {
+    "prefix": "cfu-margin-horizontal-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-horizontal-48"
+    ]
+  },
+  "margin-vertical-2": {
+    "prefix": "cfu-margin-vertical-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-2"
+    ]
+  },
+  "margin-vertical-4": {
+    "prefix": "cfu-margin-vertical-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-4"
+    ]
+  },
+  "margin-vertical-8": {
+    "prefix": "cfu-margin-vertical-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-8"
+    ]
+  },
+  "margin-vertical-12": {
+    "prefix": "cfu-margin-vertical-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-12"
+    ]
+  },
+  "margin-vertical-16": {
+    "prefix": "cfu-margin-vertical-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-16"
+    ]
+  },
+  "margin-vertical-24": {
+    "prefix": "cfu-margin-vertical-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-24"
+    ]
+  },
+  "margin-vertical-32": {
+    "prefix": "cfu-margin-vertical-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-32"
+    ]
+  },
+  "margin-vertical-48": {
+    "prefix": "cfu-margin-vertical-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-margin-vertical-48"
+    ]
+  },
+  "padding-2": {
+    "prefix": "cfu-padding-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-2"
+    ]
+  },
+  "padding-4": {
+    "prefix": "cfu-padding-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-4"
+    ]
+  },
+  "padding-8": {
+    "prefix": "cfu-padding-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-8"
+    ]
+  },
+  "padding-12": {
+    "prefix": "cfu-padding-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-12"
+    ]
+  },
+  "padding-16": {
+    "prefix": "cfu-padding-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-16"
+    ]
+  },
+  "padding-24": {
+    "prefix": "cfu-padding-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-24"
+    ]
+  },
+  "padding-32": {
+    "prefix": "cfu-padding-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-32"
+    ]
+  },
+  "padding-48": {
+    "prefix": "cfu-padding-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-48"
+    ]
+  },
+  "padding-top-2": {
+    "prefix": "cfu-padding-top-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-2"
+    ]
+  },
+  "padding-top-4": {
+    "prefix": "cfu-padding-top-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-4"
+    ]
+  },
+  "padding-top-8": {
+    "prefix": "cfu-padding-top-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-8"
+    ]
+  },
+  "padding-top-12": {
+    "prefix": "cfu-padding-top-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-12"
+    ]
+  },
+  "padding-top-16": {
+    "prefix": "cfu-padding-top-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-16"
+    ]
+  },
+  "padding-top-24": {
+    "prefix": "cfu-padding-top-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-24"
+    ]
+  },
+  "padding-top-32": {
+    "prefix": "cfu-padding-top-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-32"
+    ]
+  },
+  "padding-top-48": {
+    "prefix": "cfu-padding-top-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-top-48"
+    ]
+  },
+  "padding-right-2": {
+    "prefix": "cfu-padding-right-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-2"
+    ]
+  },
+  "padding-right-4": {
+    "prefix": "cfu-padding-right-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-4"
+    ]
+  },
+  "padding-right-8": {
+    "prefix": "cfu-padding-right-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-8"
+    ]
+  },
+  "padding-right-12": {
+    "prefix": "cfu-padding-right-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-12"
+    ]
+  },
+  "padding-right-16": {
+    "prefix": "cfu-padding-right-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-16"
+    ]
+  },
+  "padding-right-24": {
+    "prefix": "cfu-padding-right-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-24"
+    ]
+  },
+  "padding-right-32": {
+    "prefix": "cfu-padding-right-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-32"
+    ]
+  },
+  "padding-right-48": {
+    "prefix": "cfu-padding-right-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-right-48"
+    ]
+  },
+  "padding-bottom-2": {
+    "prefix": "cfu-padding-bottom-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-2"
+    ]
+  },
+  "padding-bottom-4": {
+    "prefix": "cfu-padding-bottom-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-4"
+    ]
+  },
+  "padding-bottom-8": {
+    "prefix": "cfu-padding-bottom-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-8"
+    ]
+  },
+  "padding-bottom-12": {
+    "prefix": "cfu-padding-bottom-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-12"
+    ]
+  },
+  "padding-bottom-16": {
+    "prefix": "cfu-padding-bottom-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-16"
+    ]
+  },
+  "padding-bottom-24": {
+    "prefix": "cfu-padding-bottom-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-24"
+    ]
+  },
+  "padding-bottom-32": {
+    "prefix": "cfu-padding-bottom-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-32"
+    ]
+  },
+  "padding-bottom-48": {
+    "prefix": "cfu-padding-bottom-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-bottom-48"
+    ]
+  },
+  "padding-left-2": {
+    "prefix": "cfu-padding-left-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-2"
+    ]
+  },
+  "padding-left-4": {
+    "prefix": "cfu-padding-left-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-4"
+    ]
+  },
+  "padding-left-8": {
+    "prefix": "cfu-padding-left-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-8"
+    ]
+  },
+  "padding-left-12": {
+    "prefix": "cfu-padding-left-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-12"
+    ]
+  },
+  "padding-left-16": {
+    "prefix": "cfu-padding-left-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-16"
+    ]
+  },
+  "padding-left-24": {
+    "prefix": "cfu-padding-left-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-24"
+    ]
+  },
+  "padding-left-32": {
+    "prefix": "cfu-padding-left-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-32"
+    ]
+  },
+  "padding-left-48": {
+    "prefix": "cfu-padding-left-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-left-48"
+    ]
+  },
+  "padding-horizontal-2": {
+    "prefix": "cfu-padding-horizontal-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-2"
+    ]
+  },
+  "padding-horizontal-4": {
+    "prefix": "cfu-padding-horizontal-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-4"
+    ]
+  },
+  "padding-horizontal-8": {
+    "prefix": "cfu-padding-horizontal-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-8"
+    ]
+  },
+  "padding-horizontal-12": {
+    "prefix": "cfu-padding-horizontal-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-12"
+    ]
+  },
+  "padding-horizontal-16": {
+    "prefix": "cfu-padding-horizontal-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-16"
+    ]
+  },
+  "padding-horizontal-24": {
+    "prefix": "cfu-padding-horizontal-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-24"
+    ]
+  },
+  "padding-horizontal-32": {
+    "prefix": "cfu-padding-horizontal-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-32"
+    ]
+  },
+  "padding-horizontal-48": {
+    "prefix": "cfu-padding-horizontal-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-horizontal-48"
+    ]
+  },
+  "padding-vertical-2": {
+    "prefix": "cfu-padding-vertical-2",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-2"
+    ]
+  },
+  "padding-vertical-4": {
+    "prefix": "cfu-padding-vertical-4",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-4"
+    ]
+  },
+  "padding-vertical-8": {
+    "prefix": "cfu-padding-vertical-8",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-8"
+    ]
+  },
+  "padding-vertical-12": {
+    "prefix": "cfu-padding-vertical-12",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-12"
+    ]
+  },
+  "padding-vertical-16": {
+    "prefix": "cfu-padding-vertical-16",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-16"
+    ]
+  },
+  "padding-vertical-24": {
+    "prefix": "cfu-padding-vertical-24",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-24"
+    ]
+  },
+  "padding-vertical-32": {
+    "prefix": "cfu-padding-vertical-32",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-32"
+    ]
+  },
+  "cfu-padding-vertical-48": {
+    "prefix": "cfu-padding-vertical-48",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-padding-vertical-48"
+    ]
+  },
+  "text small": {
+    "prefix": "cfu-text-sm",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-sm"
+    ]
+  },
+  "text base": {
+    "prefix": "cfu-text-base",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-base"
+    ]
+  },
+  "text large": {
+    "prefix": "cfu-text-lg",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-lg"
+    ]
+  },
+  "text extra large": {
+    "prefix": "cfu-text-xl",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-xl"
+    ]
+  },
+  "text 2x large": {
+    "prefix": "cfu-text-2xl",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-2xl"
+    ]
+  },
+  "text 3x large": {
+    "prefix": "cfu-text-3xl",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-3xl"
+    ]
+  },
+  "text weight regular": {
+    "prefix": "cfu-text-regular",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-regular"
+    ]
+  },
+  "text weight medium": {
+    "prefix": "cfu-text-medium",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-medium"
+    ]
+  },
+  "text weight bold": {
+    "prefix": "cfu-text-bold",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-bold"
+    ]
+  },
+  "text align left": {
+    "prefix": "cfu-text-align-left",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-align-left"
+    ]
+  },
+  "text align center": {
+    "prefix": "cfu-text-align-center",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-align-center"
+    ]
+  },
+  "text align right": {
+    "prefix": "cfu-text-align-right",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-align-right"
+    ]
+  },
+  "text truncate": {
+    "prefix": "cfu-text-truncate",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-truncate"
+    ]
+  },
+  "text wrap": {
+    "prefix": "cfu-text-wrap",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-text-wrap"
+    ]
+  },
+  "vertical align baseline": {
+    "prefix": "cfu-vertical-align-baseline",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-vertical-align-baseline"
+    ]
+  },
+  "vertical align top": {
+    "prefix": "cfu-vertical-align-top",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-vertical-align-top"
+    ]
+  },
+  "vertical align middle": {
+    "prefix": "cfu-vertical-align-middle",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-vertical-align-middle"
+    ]
+  },
+  "vertical align bottom": {
+    "prefix": "cfu-vertical-align-bottom",
+    "description": "careflow utilities",
+    "body": [
+      "cfu-vertical-align-bottom"
+    ]
+  },
+  "pagination template": {
+    "prefix": "cfc-pagination",
+    "body": [
+      "<div class=\"cfc-pagination\">",
+      "    <!-- naviagtion left -->",
+      "    <div class=\"cfc-pagination__actions\">",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--seek-left\"></span>",
+      "        </button>",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--angle-left\"></span>",
+      "        </button>",
+      "    </div>",
+      "    <!-- content -->",
+      "    1 to 1 rows",
+      "    <!-- navigation right -->",
+      "    <div class=\"cfc-pagination__actions\">",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--angle-right\"></span>",
+      "        </button>",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--seek-right\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "pagination template"
+  },
+  "pagination with calendar template": {
+    "prefix": "cfc-pagination--calendar",
+    "body": [
+      "<div class=\"cfc-pagination\">",
+      "    <!-- navigation left -->",
+      "    <div class=\"cfc-pagination__actions\">",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--seek-left\"></span>",
+      "        </button>",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--angle-left\"></span>",
+      "        </button>",
+      "    </div>",
+      "    <!-- content -->",
+      "        <div",
+      "            class=\"cfc-field-group cfc-field-group--actions cfc-field-group--actions-1\">",
+      "            <input",
+      "                type=\"text\"",
+      "                placeholder=\"calender\"",
+      "                class=\"cfc-field-text cfc-field-group__field\" />",
+      "            <div class=\"cfc-field-group__actions\">",
+      "                <span class=\"cfl-icon--calendar\"></span>",
+      "            </div>",
+      "        </div>",
+      "    <!-- navigation right -->",
+      "    <div class=\"cfc-pagination__actions\">",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--angle-right\"></span>",
+      "        </button>",
+      "        <button class=\"cfc-button\">",
+      "            <span class=\"cfl-icon--seek-right\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "pagination with calendar template"
+  },
+  "tab primary template": {
+    "prefix": "cfc-tab--primary",
+    "body": [
+      "div class=\"cfc-tab-wrapper\">",
+      "  <div class=\"cfc-tab cfc-tab--primary\">",
+      "      <a class='cfc-tab__item is-active' tabindex=\"0\">",
+      "          <span class=\"cfc-tab__text\">Tab Label</span>",
+      "          <span class=\"cfc-badge cfc-badge--counter-quantity\">1</span>",
+      "      </a>",
+      "      <a class='cfc-tab__item' tabindex=\"0\">",
+      "          <span class=\"cfc-tab__text\">Tab Label</span>",
+      "          <span class=\"cfc-badge cfc-badge--counter-quantity\">1</span>",
+      "      </a>",
+      "      <a class='cfc-tab__item' tabindex=\"0\">",
+      "          <span class=\"cfc-tab__text\">Tab Label</span>",
+      "          <span class=\"cfc-badge cfc-badge--counter-quantity\">1</span>",
+      "      </a>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "tab primary template"
+  },
+  "tab secondary template": {
+    "prefix": "cfc-tab--secondary",
+    "body": [
+      "<div class=\"cfc-tab-wrapper\">",
+      "  <div class=\"cfc-tab cfc-tab--secondary\">",
+      "    <a class=\"cfc-tab__item is-active\" tabindex=\"0\">",
+      "      <span class=\"cfc-tab__text\">Tab Label</span>",
+      "      <span class=\"cfc-badge cfc-badge--counter-quantity\">12</span>",
+      "    </a>",
+      "    <a class=\"cfc-tab__item\" tabindex=\"0\">",
+      "      <span class=\"cfc-tab__text\">Tab Label</span>",
+      "      <span class=\"cfc-badge cfc-badge--counter-quantity\">12</span>",
+      "    </a>",
+      "    <a class=\"cfc-tab__item\" tabindex=\"0\">",
+      "      <span class=\"cfc-tab__text\">Tab Label</span>",
+      "      <span class=\"cfc-badge cfc-badge--counter-quantity\">12</span>",
+      "    </a>",
+      "  </div>",
+      "</div>",
+      ""
+    ],
+    "description": "tab secondary template"
+  },
+  "tab slideout template": {
+    "prefix": "cfc-tab--slideout",
+    "body": [
+      "<div class=\"cfc-tab cfc-tab--slideout\">",
+      "  <a class=\"cfc-tab__item isActive\" tabindex=\"0\">",
+      "    <span class=\"cfc-tab__text\">Tab Label</span> <span class=\"cfc-badge cfc-badge--counter-alert\">1</span>",
+      "  </a>",
+      "  <a class=\"cfc-tab__item\" tabindex=\"0\">",
+      "    <span class=\"cfc-tab__text\">Tab Label</span>",
+      "  </a>",
+      "  <a class=\"cfc-tab__item\" tabindex=\"0\">",
+      "    <span class=\"cfc-tab__text\">Tab Label</span>",
+      "  </a>",
+      "  <a class=\"cfc-tab__item\" tabindex=\"0\">",
+      "    <span class=\"cfc-tab__text\">Tab Label</span>",
+      "  </a>",
+      "</div>"
+    ],
+    "description": "tab slideout template"
+  },
+  "wizard template": {
+    "prefix": "cfc-wizard",
+    "body": [
+      "<ul class=\"cfc-wizard\">",
+      "    <li class=\"cfc-wizard__item is-completed\">",
+      "        <div class=\"cfc-wizard__step\">1</div>",
+      "        <div class=\"cfc-wizard__title\">Wizard Step</div>",
+      "    </li>",
+      "    <li class=\"cfc-wizard__item is-selected is-active\">",
+      "        <div class=\"cfc-wizard__step\">2</div>",
+      "        <div class=\"cfc-wizard__title\">Wizard Step</div>",
+      "    </li>",
+      "    <li class=\"cfc-wizard__item\">",
+      "        <div class=\"cfc-wizard__step\">3</div>",
+      "        <div class=\"cfc-wizard__title\">Wizard Step</div>",
+      "    </li>",
+      "</ul>"
+    ],
+    "description": "wizard template"
+  },
+  "wizard vertical template": {
+    "prefix": "cfc-wizard--vertical",
+    "body": [
+      "<ul class=\"cfc-wizard cfc-wizard--vertical\">",
+      "    <li class=\"cfc-wizard__item is-completed\">",
+      "        <div class=\"cfc-wizard__step\">1</div>",
+      "        <div class=\"cfc-wizard__body\">",
+      "            <div class=\"cfc-wizard__header\">",
+      "                <div class=\"cfc-wizard__title\">Wizard Step </div>",
+      "                <button class=\"cfc-button\">",
+      "                    <span class=\"cfl-icon--edit\"></span>",
+      "                </button>",
+      "            </div>",
+      "            <div class=\"cfc-wizard__content\">",
+      "                Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>",
+      "                Vero nemo voluptatum voluptate sed nostrum animi delectus quia, <br>",
+      "                porro velit nam pariatur quo sit ipsum corporis eveniet suscipit accusamus cupiditate veniam. <br>",
+      "            </div>",
+      "        </div>",
+      "    </li>",
+      "    <li class=\"cfc-wizard__item is-selected is-active\">",
+      "        <div class=\"cfc-wizard__step\">2</div>",
+      "        <div class=\"cfc-wizard__body\">",
+      "            <div class=\"cfc-wizard__header\">",
+      "                <div class=\"cfc-wizard__title\">Wizard Step </div>",
+      "            </div>",
+      "            <div class=\"cfc-wizard__content\">",
+      "            </div>",
+      "        </div>",
+      "    </li>",
+      "    <li class=\"cfc-wizard__item\">",
+      "        <div class=\"cfc-wizard__step\">3</div>",
+      "        <div class=\"cfc-wizard__body\">",
+      "            <div class=\"cfc-wizard__header\">",
+      "                <div class=\"cfc-wizard__title\">Wizard Step </div>",
+      "            </div>",
+      "            <div class=\"cfc-wizard__content\">",
+      "                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero nemo voluptatum voluptate sed nostrum",
+      "                animi delectus quia, porro velit nam pariatur quo sit ipsum corporis eveniet suscipit accusamus",
+      "                cupiditate veniam.",
+      "            </div>",
+      "        </div>",
+      "    </li>",
+      "</ul>"
+    ],
+    "description": "wizard vertical template"
+  },
+  "action-menu template": {
+    "prefix": "cfc-action-menu",
+    "body": [
+      "<div class=\"cfc-action-menu\">",
+      "    <div class=\"cfc-action-menu__item is-active\" tabindex=\"0\">Action Menu Item 1</div>",
+      "    <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 2</div>",
+      "    <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 3</div>",
+      "    <div class=\"cfc-action-menu__item is-disabled\" tabindex=\"-1\">Action Menu Item 4</div>",
+      "    <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 5</div>",
+      "</div>"
+    ],
+    "description": "action-menu template"
+  },
+  "action menu accordion template": {
+    "prefix": "cfc-action-menu-accordion",
+    "body": [
+      "<div class=\"cfc-action-menu cfc-action-menu--corner cfc-action-menu--gap-4\">",
+      "    <div class=\"cfc-action-menu-accordion is-active\" tabindex=\"0\">",
+      "        <a class=\"cfc-action-menu-accordion__header cfc-action-menu__item\">",
+      "            <div class=\"cfc-action-menu__item-left\">Accordion 1</div>",
+      "            <div class=\"cfc-action-menu__item-right\">",
+      "                <span class=\"cfc-action-menu-accordion__icon cfl-icon--angle-down\"></span>",
+      "            </div>",
+      "        </a>",
+      "        <div class=\"cfc-action-menu-accordion__content\">",
+      "            <div class=\"cfc-action-menu-accordion__content-inner\">",
+      "                <div class=\"cfc-action-menu cfc-action-menu--corner cfc-action-menu--gap-4\">",
+      "                    <a class=\"cfc-action-menu__item\" tabindex=\"0\">",
+      "                        <div class=\"cfc-action-menu__item-left\">Accordion Item 1</div>",
+      "                        <div class=\"cfc-action-menu__item-right\"></div>",
+      "                    </a>",
+      "                    <a class=\"cfc-action-menu__item\" tabindex=\"0\">",
+      "                        <div class=\"cfc-action-menu__item-left\">Accordion Item 2</div>",
+      "                        <div class=\"cfc-action-menu__item-right\"></div>",
+      "                    </a>",
+      "                </div>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "action menu accordion template"
+  },
+  "action menu black template": {
+    "prefix": "cfc-action-menu--black",
+    "body": [
+      "<div class=\"cfu-padding-12 cfu-background-gradient\">",
+      "    <div class=\"cfc-action-menu cfc-action-menu--corner cfc-action-menu--gap-4 cfc-action-menu--black\">",
+      "        <div class=\"cfc-action-menu__item is-active\" tabindex=\"0\">Action Menu Item 1</div>",
+      "        <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 2</div>",
+      "        <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 3</div>",
+      "        <div class=\"cfc-action-menu__item is-disabled\" tabindex=\"-1\">Action Menu Item 4</div>",
+      "        <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 5</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "action menu black template"
+  },
+  "action menu black with border template": {
+    "prefix": "cfc-action-menu--black-with-border",
+    "body": [
+      "<div class=\"cfu-padding-12 cfu-background-gradient\">",
+      "    <div class=\"cfc-action-menu cfc-action-menu--corner cfc-action-menu--gap-4 cfc-action-menu--black cfc-action-menu--border\">",
+      "        <div class=\"cfc-action-menu__item is-active\" tabindex=\"0\">Action Menu Item 1</div>",
+      "        <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 2</div>",
+      "        <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 3</div>",
+      "        <div class=\"cfc-action-menu__item is-disabled\" tabindex=\"-1\">Action Menu Item 4</div>",
+      "        <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 5</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "action menu black with border template"
+  },
+  "action menu border template": {
+    "prefix": "cfc-action-menu--border",
+    "body": [
+      "<div class=\"cfc-action-menu cfc-action-menu--border cfc-action-menu--gap-4\">",
+      "    <div class=\"cfc-action-menu__item is-active\" tabindex=\"0\">Action Menu Item 1</div>",
+      "    <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 2</div>",
+      "    <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 3</div>",
+      "    <div class=\"cfc-action-menu__item is-disabled\" tabindex=\"-1\">Action Menu Item 4</div>",
+      "    <div class=\"cfc-action-menu__item\" tabindex=\"0\">Action Menu Item 5</div>",
+      "</div>"
+    ],
+    "description": "action menu border template"
+  },
+  "button primary": {
+    "prefix": "cfc-button--primary",
+    "description": "careflow classname",
+    "body": [
+      "cfc-button cfc-button--primary"
+    ]
+  },
+  "button primary danger": {
+    "prefix": "cfc-button--primary-danger",
+    "description": "careflow classname",
+    "body": [
+      "cfc-button cfc-button--primary cfc-button--danger"
+    ]
+  },
+  "button secondary": {
+    "prefix": "cfc-button--secondary",
+    "description": "careflow classname",
+    "body": [
+      "cfc-button cfc-button--secondary"
+    ]
+  },
+  "button secondary danger": {
+    "prefix": "cfc-button--secondary-danger",
+    "description": "careflow classname",
+    "body": [
+      "cfc-button cfc-button--secondary cfc-button--danger"
+    ]
+  },
+  "button ghost": {
+    "prefix": "cfc-button-ghost",
+    "description": "careflow classname",
+    "body": [
+      "cfc-button"
+    ]
+  },
+  "button ghost danger": {
+    "prefix": "cfc-button-ghost-danger",
+    "description": "careflow classname",
+    "body": [
+      "cfc-button cfc-button--danger"
+    ]
+  },
+  "button min width": {
+    "prefix": "cfc-button--min-width",
+    "description": "careflow classname",
+    "body": [
+      "cfc-button cfc--min-width"
+    ]
+  },
+  "link danger": {
+    "prefix": "cfc-link-danger",
+    "description": "careflow classname",
+    "body": [
+      "cfc-link cfc-link--danger"
+    ]
+  },
+  "link disabled": {
+    "prefix": "cfc-link-disabled",
+    "description": "careflow classname",
+    "body": [
+      "cfc-link cfc-link--default is-disabled"
+    ]
+  },
+  "field check template": {
+    "prefix": "cfc-checkbox",
+    "body": [
+      "<label class=\"cfc-field-check\">",
+      "  <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "  <div class=\"cfc-field-check__body\"></div>",
+      "  <span class=\"cfc-field-check__text\">Unselected</span>",
+      "</label>"
+    ],
+    "description": "field checkbox template"
+  },
+  "field check indeterminate template": {
+    "prefix": "cfc-checkbox-indeterminate",
+    "body": [
+      "<label class=\"cfc-field-check\">",
+      "  <input class=\"cfc-field-check__input\" type=\"checkbox\" indeterminate/>",
+      "  <div class=\"cfc-field-check__body\"></div>",
+      "  <span class=\"cfc-field-check__text\">Indeterminate</span>",
+      "</label>"
+    ],
+    "description": "field checkbox indeterminate template"
+  },
+  "check group horizontal template": {
+    "prefix": "cfc-field-check-group--horizontal",
+    "body": [
+      "<div class=\"cfc-field-check-group cfc-field-check-group--horizontal\">",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\"> Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label</span>",
+      "  </label>",
+      "</div>"
+    ],
+    "description": "check group horizontal template"
+  },
+  "check group verticaltemplate": {
+    "prefix": "cfc-field-check-group--vertical",
+    "body": [
+      "<div class=\"cfc-field-check-group cfc-field-check-group--vertical\">",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\"> Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\"> Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"checkbox\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label</span>",
+      "  </label>",
+      "</div>"
+    ],
+    "description": "check group verticaltemplate"
+  },
+  "radio button template": {
+    "prefix": "cfc-radio",
+    "body": [
+      "<label class=\"cfc-field-check\">",
+      "  <input class=\"cfc-field-check__input\" type=\"radio\" name=\"radio\" />",
+      "  <div class=\"cfc-field-check__body\"></div>",
+      "  <span class=\"cfc-field-check__text\">Unselected</span>",
+      "</label>"
+    ],
+    "description": "radio button template"
+  },
+  "radio button group template": {
+    "prefix": "cfc-radio-group-horizontal",
+    "body": [
+      "<div class=\"cfc-field-check-group cfc-field-check-group--horizontal\">",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\"  name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\" name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\"> Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\" name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\" name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label</span>",
+      "  </label>",
+      "</div>"
+    ],
+    "description": "radio button group template"
+  },
+  "radio button group vertical template": {
+    "prefix": "cfc-radio-group-vertical",
+    "body": [
+      "<div class=\"cfc-field-check-group cfc-field-check-group--vertical\">",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\"name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\" name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\"> Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\" name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\"> Label </span>",
+      "  </label>",
+      "  <label class=\"cfc-field-check\">",
+      "    <input class=\"cfc-field-check__input\" type=\"radio\" name=\"radio\" />",
+      "    <div class=\"cfc-field-check__body\"></div>",
+      "    <span class=\"cfc-field-check__text\">Label</span>",
+      "  </label>",
+      "</div>"
+    ],
+    "description": "radio button group vertical template"
+  },
+  "table template": {
+    "prefix": "cfc-table",
+    "body": [
+      "<div class=\"cfc-table-container \">",
+      "    <div class=\"cfc-table\">",
+      "        <div class=\"cfc-table__head\">",
+      "            <table>",
+      "                <thead>",
+      "                    <tr>",
+      "                        <th>",
+      "                            <div class=\"cfc-table-header-cell\">",
+      "                                <div class=\"cfc-table-header-cell__top\">",
+      "                                    <div class=\"cfc-table-header-cell__top-left\">",
+      "                                        Label",
+      "                                    </div>",
+      "                                    <div class=\"cfc-table-header-cell__top-right\">",
+      "                                        <span class=\"cfl-icon--info-outline\"></span>",
+      "                                    </div>",
+      "                                </div>",
+      "                            </div>",
+      "                        </th>",
+      "                        <th>",
+      "                            <div class=\"cfc-table-header-cell\">",
+      "                                <div class=\"cfc-table-header-cell__top\">",
+      "                                    <div class=\"cfc-table-header-cell__top-left\">",
+      "                                        Label",
+      "                                    </div>",
+      "                                    <div class=\"cfc-table-header-cell__top-right\">",
+      "                                        <span class=\"cfl-icon--info-outline\"></span>",
+      "                                    </div>",
+      "                                </div>",
+      "                            </div>",
+      "                        </th>",
+      "                        <th>",
+      "                            <div class=\"cfc-table-header-cell\">",
+      "                                <div class=\"cfc-table-header-cell__top\">",
+      "                                    <div class=\"cfc-table-header-cell__top-left\">",
+      "                                        <div class=\"cfc-table-header-cell__label\">",
+      "                                            Label",
+      "                                        </div>",
+      "                                        <span class=\"cfl-icon--calendar\"></span>",
+      "                                    </div>",
+      "                                    <div class=\"cfc-table-header-cell__top-right\">",
+      "                                        <span class=\"cfl-icon--info-outline\"></span>",
+      "                                    </div>",
+      "                                </div>",
+      "                            </div>",
+      "                        </th>",
+      "                        <th>",
+      "                            <div class=\"cfc-table-header-cell\">",
+      "                                <div class=\"cfc-table-header-cell__top\">",
+      "                                    <div class=\"cfc-table-header-cell__top-left\">",
+      "                                        <div class=\"cfc-table-header-cell__label\">",
+      "                                            Label",
+      "                                        </div>",
+      "                                        <span class=\"c-icon-v2--general-InfoFill\"></span>",
+      "                                    </div>",
+      "                                    <div class=\"cfc-table-header-cell__top-right\">",
+      "                                        <span class=\"cfl-icon--info-outline\"></span>",
+      "                                    </div>",
+      "                                </div>",
+      "                            </div>",
+      "                        </th>",
+      "                        <th>",
+      "                            <div class=\"cfc-table-header-cell\">",
+      "                                <div class=\"cfc-table-header-cell__top\">",
+      "                                    <div class=\"cfc-table-header-cell__top-left\">",
+      "                                        Label",
+      "                                    </div>",
+      "                                    <div class=\"cfc-table-header-cell__top-right\">",
+      "                                        <span class=\"cfl-icon--info-outline\"></span>",
+      "                                    </div>",
+      "                                </div>",
+      "                            </div>",
+      "                        </th>",
+      "                    </tr>",
+      "                </thead>",
+      "            </table>",
+      "        </div>",
+      "        <div class=\"cfc-table__body\">",
+      "            <table>",
+      "                <tbody>",
+      "                    <tr>",
+      "                        <td>table data</td>",
+      "                        <td>table data</td>",
+      "                        <td>table head</td>",
+      "                        <td>table data</td>",
+      "                        <td>table data</td>",
+      "                    </tr>",
+      "                    <tr class=\"is-active\">",
+      "                        <td>table data</td>",
+      "                        <td>table data</td>",
+      "                        <td>table head</td>",
+      "                        <td>table data</td>",
+      "                        <td>table data</td>",
+      "                    </tr>",
+      "                    <tr>",
+      "                        <td>table data</td>",
+      "                        <td>table data</td>",
+      "                        <td>table head</td>",
+      "                        <td>table data</td>",
+      "                        <td>table data</td>",
+      "                    </tr>",
+      "                </tbody>",
+      "            </table>",
+      "        </div>",
+      "        <div class=\"cfc-table__footer\">",
+      "            <table>",
+      "                <tfoot>",
+      "                    <tr>",
+      "                        <td>table footer</td>",
+      "                    </tr>",
+      "                </tfoot>",
+      "            </table>",
+      "        </div>",
+      "    </div>",
+      "",
+      "    <div class=\"cfc-table__pagination\">",
+      "        <div class=\"cfc-table__pagination-icon is-disabled\"><span class=\"cfl-icon--angle-left\"></span></div>",
+      "        <div class=\"cfc-table__pagination-text\">0 to 0 rows</div>",
+      "        <div class=\"cfc-table__pagination-icon\"> <span class=\"cfl-icon--angle-right\"></span>",
+      "        </div>",
+      "    </div>",
+      "",
+      "</div>"
+    ],
+    "description": "table template"
+  },
+  "form-group-vertical": {
+    "prefix": "form-group-vertical",
+    "description": "careflow template",
+    "body": [
+      "<div class=\"cfc-form-group-vertical\">",
+      "    <label class=\" cfc-form-group\">",
+      "        <div class=\"cfc-form-group__label\">Label Default</div>",
+      "        <div class=\"cfc-form-group__value\">",
+      "            <div class=\"cfc-form-control\">",
+      "                <div class=\"cfc-form-control__field\">",
+      "                    <input type=\"text\" class=\"cfc-field-text\" />",
+      "                </div>",
+      "                <div class=\"cfc-form-control__message\">small text</div>",
+      "            </div>",
+      "        </div>",
+      "    </label>",
+      "</div>"
+    ]
+  },
+  "form-group-horizontal": {
+    "prefix": "form-group-horizontal",
+    "description": "careflow template",
+    "body": [
+      "<div class=\"cfc-form-group-horizontal\">",
+      "    <label class=\"cfc-form-group\">",
+      "        <div class=\"cfc-form-group__label\">Label </div>",
+      "        <div class=\"cfc-form-group__value\">",
+      "            <input type=\"text\" class=\"cfc-field-text\" />",
+      "        </div>",
+      "    </label>",
+      "</div>"
+    ]
+  },
+  "form-group": {
+    "prefix": "form-group-label",
+    "description": "careflow template",
+    "body": [
+      "  <label class=\" cfc-form-group\">",
+      "        <div class=\"cfc-form-group__label\">Label Default</div>",
+      "        <div class=\"cfc-form-group__value\">",
+      "            <div class=\"cfc-form-control\">",
+      "                <div class=\"cfc-form-control__field\">",
+      "                    <input type=\"text\" class=\"cfc-field-text\" />",
+      "                </div>",
+      "                <div class=\"cfc-form-control__message\">small text</div>",
+      "            </div>",
+      "        </div>",
+      "    </label>"
+    ]
+  },
+  "cfc-form-control": {
+    "prefix": "cfc-form-control",
+    "description": "careflow template",
+    "body": [
+      "<div class=\"cfc-form-control\">",
+      "    <div class=\"cfc-form-control__field\">",
+      "        <input type=\"text\" class=\"cfc-field-text\">",
+      "    </div>",
+      "    <div class=\"cfc-form-control__message\">Info</div>",
+      "</div>"
+    ]
+  },
+  "cfc-field-textarea": {
+    "prefix": "cfc-field-textarea",
+    "description": "careflow template",
+    "body": [
+      "<textarea class=\"cfc-field-textarea\" >Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis atque eos consequuntur commodi odio eaque, recusandae in eum dolorum, ducimus sint voluptatem vero error maxime distinctio delectus consequatur similique facilis.",
+      "</textarea>"
+    ]
+  },
+  "cfc-field-group-currency": {
+    "prefix": "cfc-field-group-currency",
+    "description": "careflow template",
+    "body": [
+      "<div class=\"cfc-field-group cfc-field-group--label-left\">",
+      "    <input type=\"text\" class=\"cfc-field-text cfc-field-group__field\">",
+      "    <div class=\"cfc-field-group__label\">",
+      "        $",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "cfc-field-group-percentage": {
+    "prefix": "cfc-field-group-percentage",
+    "description": "careflow template",
+    "body": [
+      " <div class=\"cfc-field-group cfc-field-group--label-right\">",
+      "        <input type=\"text\" class=\"cfc-field-text cfc-field-group__field\">",
+      "        <div class=\"cfc-field-group__label\">",
+      "            %",
+      "        </div>",
+      "    </div>"
+    ]
+  },
+  "segmented button template": {
+    "prefix": "cfc-segmented-button",
+    "description": "careflow template",
+    "body": [
+      "<div class=\"cfc-segmented-button\">",
+      "    <div class=\"cfc-segmented-button__item\">",
+      "        <input type=\"radio\" id=\"1\" value='yes'",
+      "            onClick={change} name='radio' />",
+      "        <label htmlFor=\"radio\">Yes</label>",
+      "    </div>",
+      "    <div class=\"cfc-segmented-button__item\" >",
+      "        <input type=\"radio\" value='or' id=\"2\" name='radio' onClick={change}/>",
+      "        <label htmlFor=\"radio\">or</label>",
+      "    </div>",
+      "    <div class=\"cfc-segmented-button__item\">",
+      "        <input type=\"radio\" id=\"3\" value='No' name='radio' onClick={change}/>",
+      "        <label htmlFor=\"radio\">No</label>",
+      "    </div>",
+      "    <div class=\"cfc-segmented-button__item\">",
+      "        <input type=\"radio\" id=\"4\" value='MayBe' name='radio' onClick={change}/>",
+      "        <label htmlFor=\"radio\">MayBe</label>",
+      "    </div>",
+      "    <div class=\"cfc-segmented-button__item\">",
+      "        <input type=\"radio\" id=\"5\" value='Never' name='radio' onClick={change}/>",
+      "        <label htmlFor=\"radio\">Never</label>",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "toggle switch": {
+    "prefix": "cfc-toggle-switch",
+    "description": "careflow template",
+    "body": [
+      "<label class=\"cfc-toggle-switch\">",
+      "  <input type=\"checkbox\" class=\"cfc-toggle-switch__input\">",
+      "  <span class=\"cfc-toggle-switch__slider\"></span>",
+      "</label>"
+    ]
+  },
+  "button group right": {
+    "prefix": "cfc-button-group-right",
+    "description": "careflow template",
+    "body": [
+      "<div class=\"cfc-button-group cfc-button-group--right\">",
+      "<button class=\"cfc-button cfc-button--secondary\"> Cancel </button>",
+      "<button class=\"cfc-button cfc-button--primary\"> Save </button>",
+      "</div>"
+    ]
+  },
+  "card template": {
+    "prefix": "cfc-card",
+    "description": "careflow template",
+    "body": [
+      "<div class=\"cfc-card\">",
+      "  <div class=\"cfc-card__header\">",
+      "    <div class=\"cfc-card__header-left\">",
+      "      <div class=\"cfc-title\">",
+      "        <h2 class=\"cfc-title__main\">Main Title</h2>",
+      "        <h3 class=\"cfc-title__sub\">Subtext</h3>",
+      "      </div>",
+      "    </div>",
+      "    <div class=\"cfc-card__header-right\">",
+      "      <button class=\"cfc-button cfc-button--primary\">Save</button>",
+      "    </div>",
+      "  </div>",
+      "  <div class=\"cfc-card__panel\">",
+      "    <div class=\"cfc-card__panel-left\">",
+      "      <div class=\"cfc-tab cfc-tab--primary\">",
+      "        <a class=\"cfc-tab__item is-active\">",
+      "          <span class=\"cfc-tab__text\">Tab Label</span>",
+      "          <span class=\"cfc-badge cfc-badge--counter-quantity\">1</span>",
+      "        </a>",
+      "        <a class=\"cfc-tab__item\">",
+      "          <span class=\"cfc-tab__text\">Tab Label</span>",
+      "          <span class=\"cfc-badge cfc-badge--counter-quantity\">1</span>",
+      "        </a>",
+      "        <a class=\"cfc-tab__item\">",
+      "          <span class=\"cfc-tab__text\">Tab Label</span>",
+      "          <span class=\"cfc-badge cfc-badge--counter-quantity\">1</span>",
+      "        </a>",
+      "      </div>",
+      "    </div>",
+      "    <div class=\"cfc-card__panel-right\">",
+      "      <div class=\"cfc-button-group\">",
+      "        <button class=\"cfc-button cfc-button--secondary\">Cancel</button>",
+      "        <button class=\"cfc-button cfc-button--primary\">Save</button>",
+      "      </div>",
+      "    </div>",
+      "  </div>",
+      "  <div class=\"cfc-card__content\">",
+      "    <div class=\"cfc-card__content-inner\">Content Inner <br /></div>",
+      "  </div>",
+      "  <div class=\"cfc-card__footer\">Footer</div>",
+      "</div>",
+      ""
+    ]
+  },
+  "chip filter template": {
+    "prefix": "cfc-chip--filter",
+    "description": "careflow template",
+    "body": [
+      "<label class=\"cfc-chip cfc-chip--filter is-selected\" tabindex=\"0\">Chip ",
+      "<span class=\"cfc-badge cfc-badge--counter-quantity\">24 </span>",
+      "</label>"
+    ]
+  },
+  "chip info template": {
+    "prefix": "cfc-chip--info",
+    "description": "careflow template",
+    "body": [
+      "<label class=\"cfc-chip cfc-chip--info\">",
+      "    Chip",
+      "</label>"
+    ]
+  },
+  "tag dot green": {
+    "prefix": "cfc-tag--dot--green",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--green"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot red": {
+    "prefix": "cfc-tag--dot--red",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--red"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot orange": {
+    "prefix": "cfc-tag--dot--orange",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--orange"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot brown": {
+    "prefix": "cfc-tag--dot--brown",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--brown"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot gold": {
+    "prefix": "cfc-tag--dot--gold",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--gold"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot olive": {
+    "prefix": "cfc-tag--dot--olive",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--olive"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot turquoise": {
+    "prefix": "cfc-tag--dot--turquoise",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--turquoise"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot blue": {
+    "prefix": "cfc-tag--dot--blue",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--blue"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot purple": {
+    "prefix": "cfc-tag--dot--purple",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--purple"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot pink": {
+    "prefix": "cfc-tag--dot--pink",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--pink"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag dot gray": {
+    "prefix": "cfc-tag--dot--gray",
+    "body": [
+      "cfc-tag cfc-tag--dot cfc-tag--gray"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill green": {
+    "prefix": "cfc-tag--fill--green",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--green"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill red": {
+    "prefix": "cfc-tag--fill--red",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--red"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill orange": {
+    "prefix": "cfc-tag--fill--orange",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--orange"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill brown": {
+    "prefix": "cfc-tag--fill--brown",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--brown"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill gold": {
+    "prefix": "cfc-tag--fill--gold",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--gold"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill olive": {
+    "prefix": "cfc-tag--fill--olive",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--olive"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill turquoise": {
+    "prefix": "cfc-tag--fill--turquoise",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--turquoise"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill blue": {
+    "prefix": "cfc-tag--fill--blue",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--blue"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill purple": {
+    "prefix": "cfc-tag--fill--purple",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--purple"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill pink": {
+    "prefix": "cfc-tag--fill--pink",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--pink"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag fill gray": {
+    "prefix": "cfc-tag--fill--gray",
+    "body": [
+      "cfc-tag cfc-tag--fill cfc-tag--gray"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline green": {
+    "prefix": "cfc-tag--outline--green",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--green"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline red": {
+    "prefix": "cfc-tag--outline--red",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--red"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline orange": {
+    "prefix": "cfc-tag--outline--orange",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--orange"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline brown": {
+    "prefix": "cfc-tag--outline--brown",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--brown"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline gold": {
+    "prefix": "cfc-tag--outline--gold",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--gold"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline olive": {
+    "prefix": "cfc-tag--outline--olive",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--olive"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline turquoise": {
+    "prefix": "cfc-tag--outline--turquoise",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--turquoise"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline blue": {
+    "prefix": "cfc-tag--outline--blue",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--blue"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline purple": {
+    "prefix": "cfc-tag--outline--purple",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--purple"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline pink": {
+    "prefix": "cfc-tag--outline--pink",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--pink"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag outline gray": {
+    "prefix": "cfc-tag--outline--gray",
+    "body": [
+      "cfc-tag cfc-tag--outline cfc-tag--gray"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill green": {
+    "prefix": "cfc-tag--semiFill--green",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--green"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill red": {
+    "prefix": "cfc-tag--semiFill--red",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--red"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill orange": {
+    "prefix": "cfc-tag--semiFill--orange",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--orange"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill brown": {
+    "prefix": "cfc-tag--semiFill--brown",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--brown"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill gold": {
+    "prefix": "cfc-tag--semiFill--gold",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--gold"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill olive": {
+    "prefix": "cfc-tag--semiFill--olive",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--olive"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill turquoise": {
+    "prefix": "cfc-tag--semiFill--turquoise",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--turquoise"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill blue": {
+    "prefix": "cfc-tag--semiFill--blue",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--blue"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill purple": {
+    "prefix": "cfc-tag--semiFill--purple",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--purple"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill pink": {
+    "prefix": "cfc-tag--semiFill--pink",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--pink"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag semiFill gray": {
+    "prefix": "cfc-tag--semiFill--gray",
+    "body": [
+      "cfc-tag cfc-tag--semiFill cfc-tag--gray"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status inactive": {
+    "prefix": "cfc-tag--status inactive",
+    "body": [
+      "cfc-tag cfc-tag--status inactive"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status active": {
+    "prefix": "cfc-tag--status active",
+    "body": [
+      "cfc-tag cfc-tag--status active"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status completed": {
+    "prefix": "cfc-tag--status completed",
+    "body": [
+      "cfc-tag cfc-tag--status completed"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status yet-to-start": {
+    "prefix": "cfc-tag--status yet-to-start",
+    "body": [
+      "cfc-tag cfc-tag--status yet-to-start"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status paused": {
+    "prefix": "cfc-tag--status paused",
+    "body": [
+      "cfc-tag cfc-tag--status paused"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status terminated": {
+    "prefix": "cfc-tag--status terminated",
+    "body": [
+      "cfc-tag cfc-tag--status terminated"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status draft": {
+    "prefix": "cfc-tag--status draft",
+    "body": [
+      "cfc-tag cfc-tag--status draft"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status in-progress": {
+    "prefix": "cfc-tag--status in-progress",
+    "body": [
+      "cfc-tag cfc-tag--status in-progress"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tag--status archived": {
+    "prefix": "cfc-tag--status archived",
+    "body": [
+      "cfc-tag cfc-tag--status archived"
+    ],
+    "description": "Careflow Classname"
+  },
+  "tooltip right": {
+    "prefix": "cfc-tooltip--right",
+    "body": [
+      "cfc-tooltip cfc-tooltip--right"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip right start": {
+    "prefix": "cfc-tooltip--right-start",
+    "body": [
+      "cfc-tooltip cfc-tooltip--right-start"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip right end": {
+    "prefix": "cfc-tooltip--right-end",
+    "body": [
+      "cfc-tooltip cfc-tooltip--right-end"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip top": {
+    "prefix": "cfc-tooltip--top",
+    "body": [
+      "cfc-tooltip cfc-tooltip--top"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip top start": {
+    "prefix": "cfc-tooltip--top-start",
+    "body": [
+      "cfc-tooltip cfc-tooltip--top-start"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip top end": {
+    "prefix": "cfc-tooltip--top-end",
+    "body": [
+      "cfc-tooltip cfc-tooltip--top-end"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip bottom": {
+    "prefix": "cfc-tooltip--bottom",
+    "body": [
+      "cfc-tooltip cfc-tooltip--bottom"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip bottom start": {
+    "prefix": "cfc-tooltip--bottom-start",
+    "body": [
+      "cfc-tooltip cfc-tooltip--bottom-start"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip bottom end": {
+    "prefix": "cfc-tooltip--bottom-end",
+    "body": [
+      "cfc-tooltip cfc-tooltip--bottom-end"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip left": {
+    "prefix": "cfc-tooltip--left",
+    "body": [
+      "cfc-tooltip cfc-tooltip--left"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip left start": {
+    "prefix": "cfc-tooltip--left-start",
+    "body": [
+      "cfc-tooltip cfc-tooltip--left-start"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "tooltip left end": {
+    "prefix": "cfc-tooltip--left-end",
+    "body": [
+      "cfc-tooltip cfc-tooltip--left-end"
+    ],
+    "description": "tooltip careflow classname"
+  },
+  "alert info": {
+    "prefix": "cfc-alert--info",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--info \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--info-solid\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts, emails and",
+      "                voice",
+      "                messages.",
+      "                <strong> All other text. </strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert info template"
+  },
+  "alert success ": {
+    "prefix": "cfc-alert--success ",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--success \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--success\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts, emails and",
+      "                voice",
+      "                messages.",
+      "                <strong> All other text. </strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert success template"
+  },
+  "alert caution ": {
+    "prefix": "cfc-alert--caution ",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--caution \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--caution\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts, emails and",
+      "                voice",
+      "                messages.",
+      "                <strong> All other text. </strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert caution template"
+  },
+  "alert warning ": {
+    "prefix": "cfc-alert--warning ",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--warning \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--warning\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts, emails and",
+      "                voice",
+      "                messages.",
+      "                <strong> All other text. </strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert warning template"
+  },
+  "alert info with title": {
+    "prefix": "cfc-alert-info-with-title",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--info \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--info-solid\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__title\">Title</div>",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts,",
+      "                emails and voice messages. The FUP limit is imposed at an account level across all your locations.",
+      "                Appointment campaigns (confirmations, reminders, notifications & curbside check-in) and",
+      "                One Time Password usage for patient portal logins will not be affected by FUP.",
+      "                <strong> All other text, email and voice messages will be blocked once you reach the FUP limit.</strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert info with title template"
+  },
+  "alert success with title": {
+    "prefix": "cfc-alert-success-with-title",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--success \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--success\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__title\">Title</div>",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts,",
+      "                emails and voice messages. The FUP limit is imposed at an account level across all your locations.",
+      "                Appointment campaigns (confirmations, reminders, notifications & curbside check-in) and",
+      "                One Time Password usage for patient portal logins will not be affected by FUP.",
+      "                <strong> All other text, email and voice messages will be blocked once you reach the FUP limit.</strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert success with title template"
+  },
+  "alert caution with title": {
+    "prefix": "cfc-alert-caution-with-title",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--caution \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--caution\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__title\">Title</div>",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts,",
+      "                emails and voice messages. The FUP limit is imposed at an account level across all your locations.",
+      "                Appointment campaigns (confirmations, reminders, notifications & curbside check-in) and",
+      "                One Time Password usage for patient portal logins will not be affected by FUP.",
+      "                <strong> All other text, email and voice messages will be blocked once you reach the FUP limit.</strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert caution with title template"
+  },
+  "alert warning with title": {
+    "prefix": "cfc-alert-warning-with-title",
+    "body": [
+      "<div class=\"cfc-alert cfc-alert--warning \">",
+      "    <div class=\"cfc-alert__left\">",
+      "        <span class=\"cfc-alert__icon cfl-icon--warning\"></span>",
+      "        <div class=\"cfc-alert__content\">",
+      "            <div class=\"cfc-alert__title\">Title</div>",
+      "            <div class=\"cfc-alert__text\">",
+      "                Starting from March 2023, we are introducing a Fair Usage Policy (FUP) limit for all texts,",
+      "                emails and voice messages. The FUP limit is imposed at an account level across all your locations.",
+      "                Appointment campaigns (confirmations, reminders, notifications & curbside check-in) and",
+      "                One Time Password usage for patient portal logins will not be affected by FUP.",
+      "                <strong> All other text, email and voice messages will be blocked once you reach the FUP limit.</strong>",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"cfc-alert__right\">",
+      "        <button class=\"cfc-button cfc-button--primary\">Button</button>",
+      "        <button class=\"cfc-trigger\">",
+      "            <span class=\"cfc-trigger__icon cfl-icon--close\"></span>",
+      "        </button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "alert warning with title template"
+  },
+  "empty state click action template": {
+    "prefix": "cfc-empty-state--click-action",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--click-action\">",
+      "  <div class=\"cfc-empty-state__image\"></div>",
+      "  <div class=\"cfc-empty-state__content\">",
+      "    <div class=\"cfc-empty-state__title\">Oops!</div>",
+      "    <div class=\"cfc-empty-state__text\">We are unable to load the data at this time. Please try again.</div>",
+      "  </div>",
+      "  <div class=\"cfc-empty-state__action\">",
+      "    <button class=\"cfc-button cfc-button--secondary\">Retry</button>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "empty state click action template"
+  },
+  "empty state click action dark template": {
+    "prefix": "cfc-empty-state--click-action-dark",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--click-action\">",
+      "  <div class=\"cfc-empty-state__image\"></div>",
+      "  <div class=\"cfc-empty-state__content\">",
+      "    <div class=\"cfc-empty-state__title\">Oops!</div>",
+      "    <div class=\"cfc-empty-state__text\">We are unable to load the data at this time. Please try again.</div>",
+      "  </div>",
+      "  <div class=\"cfc-empty-state__action\">",
+      "    <button class=\"cfc-button cfc-button--secondary\">Retry</button>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "empty state click action dark template"
+  },
+  "empty state error template": {
+    "prefix": "cfc-empty-state--error",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--error\">",
+      "  <div class=\"cfc-empty-state__image\"></div>",
+      "  <div class=\"cfc-empty-state__content\">",
+      "    <div class=\"cfc-empty-state__title\">Looks like you have been logged out!</div>",
+      "    <div class=\"cfc-empty-state__text\">Your session has expired due to inactivity. Please login to continue.</div>",
+      "  </div>",
+      "  <div class=\"cfc-empty-state__action\">",
+      "    <button class=\"cfc-button cfc-button--primary\">Login Again</button>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "empty state error template"
+  },
+  "empty state error dark template": {
+    "prefix": "cfc-empty-state--error-dark",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--error\">",
+      "  <div class=\"cfc-empty-state__image\"></div>",
+      "  <div class=\"cfc-empty-state__content\">",
+      "    <div class=\"cfc-empty-state__title\">Looks like you have been logged out!</div>",
+      "    <div class=\"cfc-empty-state__text\">Your session has expired due to inactivity. Please login to continue.</div>",
+      "  </div>",
+      "  <div class=\"cfc-empty-state__action\">",
+      "    <button class=\"cfc-button cfc-button--primary\">Login Again</button>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "empty state error dark template"
+  },
+  "empty state error loading template": {
+    "prefix": "cfc-empty-state--error-loading",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--error-loading\">",
+      "  <div class=\"cfc-empty-state__image\"></div>",
+      "  <div class=\"cfc-empty-state__content\">",
+      "    <div class=\"cfc-empty-state__title\">Looks like you have been logged out!</div>",
+      "    <div class=\"cfc-empty-state__text\">Your session has expired due to inactivity. Please login to continue.</div>",
+      "  </div>"
+    ],
+    "description": "empty state error loading template"
+  },
+  "empty state error loading dark template": {
+    "prefix": "cfc-empty-state--error-loading-dark",
+    "body": [
+      "  <div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--error-loading\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "      <div class=\"cfc-empty-state__title\">Looks like you have been logged out!</div>",
+      "      <div class=\"cfc-empty-state__text\">Your session has expired due to inactivity. Please login to continue.</div>",
+      "    </div>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "empty state error loading dark template"
+  },
+  "empty state information template": {
+    "prefix": "cfc-empty-state--information",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--information\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">Drag & Drop Content</div>",
+      "        <div class=\"cfc-empty-state__text\">Drag and drop components from the right to start building your form.</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state information template"
+  },
+  "empty state information dark template": {
+    "prefix": "cfc-empty-state--information-dark",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--information\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">Drag & Drop Content</div>",
+      "        <div class=\"cfc-empty-state__text\">Drag and drop components from the right to start building your form.</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state information dark template"
+  },
+  "empty state no data template": {
+    "prefix": "cfc-empty-state--no-data",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--no-data\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">No results found!</div>",
+      "        <div class=\"cfc-empty-state__text\">Sorry there are no results found for the above filter criteria. Change the",
+      "            filter criteria to show desired results.</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state no data template"
+  },
+  "empty state no data dark template": {
+    "prefix": "cfc-empty-state--no-data-dark",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--no-data\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">No results found!</div>",
+      "        <div class=\"cfc-empty-state__text\">Sorry there are no results found for the above filter criteria. Change",
+      "            the filter criteria to show desired results.</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state no data dark template"
+  },
+  "empty state no-operatory template": {
+    "prefix": "cfc-empty-state--no-operatory",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--no-operatory\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">No operatories to display</div>",
+      "        <div class=\"cfc-empty-state__text\">Sorry, there are no results found for the above filter criteria. Change the",
+      "            filter criteria to show desired results.</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state no-operatory template"
+  },
+  "empty state no-operatory dark template": {
+    "prefix": "cfc-empty-state--no-operatory-dark",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--no-operatory\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">No operatories to display</div>",
+      "        <div class=\"cfc-empty-state__text\">Sorry, there are no results found for the above filter criteria. Change the",
+      "            filter criteria to show desired results.</div>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state no-operatory dark template"
+  },
+  "empty state upload template": {
+    "prefix": "cfc-empty-state--upload",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--upload\">",
+      "  <div class=\"cfc-empty-state__image\"></div>",
+      "  <div class=\"cfc-empty-state__content\">",
+      "    <div class=\"cfc-empty-state__title\">Looks like you have been logged out!</div>",
+      "    <div class=\"cfc-empty-state__text\">Your session has expired due to inactivity. Please login to continue.</div>",
+      "  </div>",
+      "  <div class=\"cfc-empty-state__action\">",
+      "    <button class=\"cfc-button cfc-button--primary\">Login Again</button>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "empty state upload template"
+  },
+  "empty state upload dark template": {
+    "prefix": "cfc-empty-state--upload-dark",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--upload\">",
+      "  <div class=\"cfc-empty-state__image\"></div>",
+      "  <div class=\"cfc-empty-state__content\">",
+      "    <div class=\"cfc-empty-state__title\">Looks like you have been logged out!</div>",
+      "    <div class=\"cfc-empty-state__text\">Your session has expired due to inactivity. Please login to continue.</div>",
+      "  </div>",
+      "  <div class=\"cfc-empty-state__action\">",
+      "    <button class=\"cfc-button cfc-button--primary\">Login Again</button>",
+      "  </div>",
+      "</div>"
+    ],
+    "description": "empty state upload dark template"
+  },
+  "empty state user action template": {
+    "prefix": "cfc-empty-state--user-action",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--user-action\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">Oops!</div>",
+      "        <div class=\"cfc-empty-state__text\">We are unable to load the data at this time. Please try again.</div>",
+      "    </div>",
+      "    <div class=\"cfc-empty-state__action\">",
+      "        <button class=\"cfc-button cfc-button--secondary\">Retry</button>",
+      "        or",
+      "        <button class=\"cfc-button cfc-button--default\">Logout</button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state user action template"
+  },
+  "empty state user action dark template": {
+    "prefix": "cfc-empty-state--user-action-dark",
+    "body": [
+      "<div class=\"cfc-empty-state cfc-empty-state--dark cfc-empty-state--user-action\">",
+      "    <div class=\"cfc-empty-state__image\"></div>",
+      "    <div class=\"cfc-empty-state__content\">",
+      "        <div class=\"cfc-empty-state__title\">Oops!</div>",
+      "        <div class=\"cfc-empty-state__text\">We are unable to load the data at this time. Please try again.</div>",
+      "    </div>",
+      "    <div class=\"cfc-empty-state__action\">",
+      "        <button class=\"cfc-button cfc-button--secondary\">Retry</button>",
+      "        or",
+      "        <button class=\"cfc-button cfc-button--default\">Logout</button>",
+      "    </div>",
+      "</div>"
+    ],
+    "description": "empty state user action dark template"
+  },
+  "skeleton template": {
+    "prefix": "cfc-skeleton",
+    "body": [
+      "<div class=\"cfc-skeleton\"></div>"
+    ],
+    "description": "skeleton template"
+  },
+  "skeleton label template": {
+    "prefix": "cfc-skeleton--label",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--label\"></div>"
+    ],
+    "description": "skeleton label template"
+  },
+  "skeleton field template": {
+    "prefix": "cfc-skeleton--field",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--field\"></div>"
+    ],
+    "description": "skeleton field template"
+  },
+  "skeleton textarea template": {
+    "prefix": "cfc-skeleton--textarea",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--textarea\"></div>"
+    ],
+    "description": "skeleton textarea template"
+  },
+  "skeleton tag template": {
+    "prefix": "cfc-skeleton--tag",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--tag\">",
+      "    <div class=\"cfc-skeleton__child\"></div>",
+      "</div>"
+    ],
+    "description": "skeleton tag template"
+  },
+  "skeleton avatar template": {
+    "prefix": "cfc-skeleton--avatar",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--avatar\"></div>"
+    ],
+    "description": "skeleton avatar template"
+  },
+  "skeleton image template": {
+    "prefix": "cfc-skeleton--image",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--image\">",
+      "    <div class=\"cfc-skeleton__child\"></div>",
+      "</div>"
+    ],
+    "description": "skeleton image template"
+  },
+  "skeleton chart-line template": {
+    "prefix": "cfc-skeleton--chart-line",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--chart-line\">",
+      "    <div class=\"cfc-skeleton__child\"></div>",
+      "</div>"
+    ],
+    "description": "skeleton chart-line template"
+  },
+  "skeleton chart-donut template": {
+    "prefix": "cfc-skeleton--chart-donut",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--chart-donut\">",
+      "    <div class=\"cfc-skeleton__child\"></div>",
+      "</div>"
+    ],
+    "description": "skeleton chart-donut template"
+  },
+  "skeleton chart-donut-half template": {
+    "prefix": "cfc-skeleton--chart-donut-half",
+    "body": [
+      "<div class=\"cfc-skeleton cfc-skeleton--chart-donut-half\">",
+      "    <div class=\"cfc-skeleton__child\"></div>",
+      "</div>"
+    ],
+    "description": "skeleton chart-donut-half template"
+  },
+  "spinner template": {
+    "prefix": "cfc-spinner",
+    "body": [
+      "<div class=\"cfc-spinner\">Spinner</div>"
+    ],
+    "description": "spinner template"
+  },
+  "page template": {
+    "prefix": "cfc-page",
+    "body": [
+      " <div class=\"cfc-page\">",
+      "        <div class=\"cfc-page__sidebar\">",
+      "            <div class=\"cfc-page__panel\">",
+      "                <div class=\"cfc-page__panel-left\">",
+      "                    <div class=\"cfc-title\">",
+      "                        <h2 class=\"cfc-title__main\">Main Title</h2>",
+      "                        <div class=\"cfc-title__sub\">Subtitle</div>",
+      "                    </div> ",
+      "                </div>",
+      "                <div class=\"cfc-page__panel-right\"></div>",
+      "            </div>",
+      "            <div class=\"cfc-page__content\">",
+      "                <div class=\"cfc-page__content-inner\">",
+      "",
+      "                    <div class=\"cfc-action-menu cfc-action-menu--corner cfc-action-menu--gap-4\">",
+      "                        <a class=\"cfc-action-menu__item\">",
+      "                            <div class=\"cfc-action-menu__item-left\">Action Menu Item 1</div>",
+      "                            <div class=\"cfc-action-menu__item-right\"></div>",
+      "                        </a>",
+      "                        <a class=\"cfc-action-menu__item is-active\">",
+      "                            <div class=\"cfc-action-menu__item-left\">Action Menu Item 2</div>",
+      "                            <div class=\"cfc-action-menu__item-right\"></div>",
+      "                        </a>",
+      "                        <div class=\"cfc-action-menu-accordion is-active\">",
+      "                            <a class=\"cfc-action-menu-accordion__header cfc-action-menu__item\">",
+      "                                <div class=\"cfc-action-menu__item-left\">Accordion 1</div>",
+      "                                <div class=\"cfc-action-menu__item-right\">",
+      "                                    <span class=\"cfc-action-menu-accordion__icon cfl-icon--angle-down\"></span>",
+      "                                </div>",
+      "                            </a>",
+      "                            <div class=\"cfc-action-menu-accordion__content\">",
+      "                                <div class=\"cfc-action-menu-accordion__content-inner\">",
+      "                                    <div class=\"cfc-action-menu cfc-action-menu--corner cfc-action-menu--gap-4\">",
+      "                                        <a class=\"cfc-action-menu__item\">",
+      "                                            <div class=\"cfc-action-menu__item-left\">Accordion Item 1</div>",
+      "                                            <div class=\"cfc-action-menu__item-right\"></div>",
+      "                                        </a>",
+      "                                        <a class=\"cfc-action-menu__item\">",
+      "                                            <div class=\"cfc-action-menu__item-left\">Accordion Item 2</div>",
+      "                                            <div class=\"cfc-action-menu__item-right\"></div>",
+      "                                        </a>",
+      "                                    </div>",
+      "                                </div>",
+      "                            </div>",
+      "                        </div>",
+      "                        <a class=\"cfc-action-menu__item\">",
+      "                            <div class=\"cfc-action-menu__item-left\">Action Menu Item 3</div>",
+      "                            <div class=\"cfc-action-menu__item-right\"></div>",
+      "                        </a>",
+      "                    </div>",
+      "                </div>",
+      "            </div>",
+      "        </div>",
+      "        <div class=\"cfc-page__main\">",
+      "            <div class=\"cfc-page__panel\">",
+      "                <div class=\"cfc-page__panel-left\">",
+      "                    <div class=\"cfc-title\">",
+      "                        <h2 class=\"cfc-title__main\">Main Title</h2>",
+      "                        <div class=\"cfc-title__sub\">Subtitle</div>",
+      "                    </div>",
+      "                </div>",
+      "                <div class=\"cfc-page__panel-right\"></div>",
+      "            </div>",
+      "            <dic class=\"cfc-page__content\">",
+      "                <div class=\"cfc-page__content-inner\">",
+      "                    <div class=\"cfc-card\">",
+      "                        <div class=\"cfc-card__header\">",
+      "                            <div class=\"cfc-card__header-left\">",
+      "                                <div class=\"cfc-title\">",
+      "                                    <h2 class=\"cfc-title__main\">Main Title</h2>",
+      "                                    <div class=\"cfc-title__sub\">Subtitle</div>",
+      "                                </div>",
+      "                            </div>",
+      "                        </div>",
+      "                        <div class=\"cfc-card__content\">",
+      "                            <div class=\"cfc-card__content-inner\">",
+      "                                Content",
+      "                            </div>",
+      "                        </div>",
+      "                    </div>",
+      "                </div>",
+      "            </dic>",
+      "        </div>",
+      "    </div>"
+    ],
+    "description": "page template"
+  }
+}
